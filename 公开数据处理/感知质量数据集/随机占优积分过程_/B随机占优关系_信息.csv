@@ -1,0 +1,9 @@
+,ALBD,AND,AT,BNL,GRN,LN,QPL,TB
+ALBD,--,--,--,FSD,SSD,--,--,SSD
+AND,FSD,--,FSD,FSD,SSD,FSD,SSD,FSD
+AT,FSD,--,--,FSD,SSD,FSD,SSD,FSD
+BNL,--,--,--,--,--,--,--,--
+GRN,--,--,--,--,--,--,--,--
+LN,--,--,--,FSD,SSD,--,--,--
+QPL,SSD,--,--,FSD,FSD,FSD,--,SSD
+TB,--,--,--,FSD,SSD,--,--,--

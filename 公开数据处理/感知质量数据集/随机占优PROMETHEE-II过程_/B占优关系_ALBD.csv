@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,--,FSD,SSD,SSD,FSD,FSD,--,SSD,SSD,FSD,FSD,FSD
+1,--,--,--,--,FSD,--,--,--,--,FSD,FSD,--
+2,--,FSD,--,--,FSD,--,--,SSD,FSD,FSD,FSD,FSD
+3,--,FSD,--,--,FSD,--,--,SSD,FSD,FSD,FSD,FSD
+4,--,--,--,--,--,--,--,--,--,--,--,--
+5,--,FSD,--,--,FSD,--,--,SSD,SSD,FSD,FSD,SSD
+6,FSD,FSD,FSD,FSD,FSD,FSD,--,SSD,FSD,FSD,FSD,FSD
+7,--,FSD,--,--,FSD,--,--,--,--,FSD,FSD,--
+8,--,FSD,--,--,FSD,--,--,--,--,FSD,FSD,--
+9,--,--,--,--,FSD,--,--,--,--,--,--,--
+10,--,--,--,--,FSD,--,--,--,--,SSD,--,--
+11,--,FSD,--,--,FSD,--,--,--,--,FSD,FSD,--

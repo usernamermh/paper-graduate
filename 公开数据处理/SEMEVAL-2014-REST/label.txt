@@ -1,0 +1,5 @@
+anecdotes/miscellaneous
+ambience
+food
+service
+price

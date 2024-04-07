@@ -1,0 +1,845 @@
+3RESTAURANT#GENERAL	Al Di La	Love Al Di La
+3RESTAURANT#GENERAL	place	I recommend this place to everyone.
+3FOOD#QUALITY	food	Great food.
+3RESTAURANT#GENERAL	NULL	One of my favorite places in Brooklyn. 
+3FOOD#QUALITY	pastas	The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+3FOOD#QUALITY	risottos	The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+3FOOD#QUALITY	sepia	The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+3FOOD#QUALITY	braised rabbit	The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+1FOOD#PRICES	NULL	Overpriced and not tasty 
+1FOOD#QUALITY	NULL	Overpriced and not tasty 
+1FOOD#QUALITY	food	The food here was mediocre at best. 
+1FOOD#PRICES	NULL	It was totally overpriced- fish and chips was about $15.... 
+1FOOD#PRICES	fish and chips	It was totally overpriced- fish and chips was about $15.... 
+3FOOD#QUALITY	Dog	Tasty Dog!
+3FOOD#QUALITY	dog	An awesome organic dog, and a conscious eco friendly establishment.
+3RESTAURANT#MISCELLANEOUS	establishment	An awesome organic dog, and a conscious eco friendly establishment.
+3FOOD#QUALITY	NULL	One of the best hot dogs I have ever eaten.
+3RESTAURANT#GENERAL	NULL	Can't wait to go back.
+3RESTAURANT#GENERAL	Cypriot restaurant	The Cypriot restaurant has a lot going for it.
+3FOOD#QUALITY	pork souvlaki	But the best pork souvlaki I ever had is the main thing.
+3RESTAURANT#GENERAL	NULL	Run don't walk.
+3FOOD#QUALITY	Pizza	Super YUMMY Pizza!
+3AMBIENCE#GENERAL	restaurant	I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+3FOOD#QUALITY	eggplant pizza	I LOOOVE their eggplant pizza, as well as their pastas!
+3FOOD#QUALITY	pastas	I LOOOVE their eggplant pizza, as well as their pastas!
+3FOOD#STYLE_OPTIONS	half/half pizza	We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!
+3RESTAURANT#GENERAL	NULL	We had fun eating in there, we were there like around 3 a.m. in the morning!
+3RESTAURANT#GENERAL	NULL	Will comeback for sure, wish they have it here in LA..
+3FOOD#QUALITY	food	Excellent food, although the interior could use some help.
+1AMBIENCE#GENERAL	interior	Excellent food, although the interior could use some help.
+1AMBIENCE#GENERAL	space	The space kind of feels like an Alice in Wonderland setting, without it trying to be that.
+3FOOD#QUALITY	meal	I paid just about $60 for a good meal, though :)
+3FOOD#PRICES	meal	I paid just about $60 for a good meal, though :)
+3DRINKS#QUALITY	sake	Great sake!
+3FOOD#QUALITY	Sushi	Reliable, Fresh Sushi
+3FOOD#QUALITY	sashimi	The sashimi is always fresh and the rolls are innovative and delicious.
+3FOOD#STYLE_OPTIONS	rolls	The sashimi is always fresh and the rolls are innovative and delicious.
+3FOOD#QUALITY	rolls	The sashimi is always fresh and the rolls are innovative and delicious.
+3SERVICE#GENERAL	service	Have never had a problem with service save a missing rice once.
+1SERVICE#GENERAL	Delivery	Delivery can be spot on or lacking depending on the weather and the day of the week.
+1SERVICE#GENERAL	Delivery guy	Delivery guy sometimes get upset if you don't tip more than 10%.
+3FOOD#QUALITY	Sushi	Best. Sushi. Ever.
+3FOOD#QUALITY	sushi	This place has ruined me for neighborhood sushi.
+3FOOD#QUALITY	NULL	Creative, consistent, fresh.
+3FOOD#STYLE_OPTIONS	NULL	Creative, consistent, fresh.
+3FOOD#QUALITY	sashimi	Excellent sashimi, and the millennium roll is beyond delicious.
+3FOOD#QUALITY	millennium roll	Excellent sashimi, and the millennium roll is beyond delicious.
+1FOOD#PRICES	NULL	Not cheap but very yummy.
+3FOOD#QUALITY	NULL	Not cheap but very yummy.
+3RESTAURANT#GENERAL	NULL	Love it.
+3RESTAURANT#GENERAL	NULL	Very, very nice
+2LOCATION#GENERAL	place	The place is a bit hidden away, but once you get there, it's all worth it.
+3RESTAURANT#GENERAL	place	The place is a bit hidden away, but once you get there, it's all worth it.
+3FOOD#QUALITY	food	not only is the food
+3RESTAURANT#GENERAL	NULL	not only is the food
+3RESTAURANT#GENERAL	NULL	Loved It
+3RESTAURANT#GENERAL	NULL	We had a very nice time.
+3SERVICE#GENERAL	waiter	The waiter was attentive, the food was delicious and the views of the city were great.
+3FOOD#QUALITY	food	The waiter was attentive, the food was delicious and the views of the city were great.
+3LOCATION#GENERAL	views of the city	The waiter was attentive, the food was delicious and the views of the city were great.
+3RESTAURANT#GENERAL	NULL	I'd definitely go back again.
+3AMBIENCE#GENERAL	place	Great place to relax and enjoy your dinner
+3AMBIENCE#GENERAL	atmosphere	There is something about their atmosphere that makes me come back nearly every week.
+3RESTAURANT#MISCELLANEOUS	Place	Place is open till late, no dress code.
+3FOOD#QUALITY	food	Good food: my favorite is the seafood spaghetti.
+3FOOD#QUALITY	seafood spaghetti	Good food: my favorite is the seafood spaghetti.
+3RESTAURANT#GENERAL	NULL	Highly recommended!
+3FOOD#QUALITY	food	Excellent food for great prices
+3FOOD#PRICES	food	Excellent food for great prices
+3RESTAURANT#GENERAL	NULL	My husband and I have been sold on this from the first visit.
+3SERVICE#GENERAL	wait staff	The wait staff is very courteous and accomodating.
+2AMBIENCE#GENERAL	space	The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+1RESTAURANT#MISCELLANEOUS	space	The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+3FOOD#QUALITY	indo-chinese food	The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+3RESTAURANT#GENERAL	NULL	There are no negatives to speak of.
+3RESTAURANT#GENERAL	NULL	the bestt!
+3RESTAURANT#GENERAL	place	my favorite place lol
+3FOOD#QUALITY	chicken pasta	i love their chicken pasta cant remember the name but is sooo good
+2RESTAURANT#GENERAL	NULL	its alright
+3RESTAURANT#GENERAL	place	im not necessarily fanatical about this place, but it was a fun time for low pirces.
+3RESTAURANT#PRICES	place	im not necessarily fanatical about this place, but it was a fun time for low pirces.
+2FOOD#QUALITY	lobster	lobster was good, nothing spectacular.
+2RESTAURANT#GENERAL	restaraunt	its just a fun place to go, not a five star restaraunt.
+1RESTAURANT#GENERAL	NULL	Way below average
+1FOOD#QUALITY	pizza	I think the pizza is so overrated and was under cooked.
+1SERVICE#GENERAL	staff	Had no flavor and the staff is rude and not attentive.
+1FOOD#QUALITY	NULL	Had no flavor and the staff is rude and not attentive.
+1RESTAURANT#GENERAL	NULL	Would NEVER go back
+3RESTAURANT#GENERAL	place	I love this place
+3FOOD#QUALITY	NULL	I wasn't here for the pizza so I can't comment on that yet but what I had was very good.
+3SERVICE#GENERAL	service	The service was quick and friendly.
+3SERVICE#GENERAL	NULL	Everyone was smiling so that made me feel welcome.
+3RESTAURANT#GENERAL	restaurant	I thought the restaurant was nice and clean.
+3AMBIENCE#GENERAL	restaurant	I thought the restaurant was nice and clean.
+3FOOD#QUALITY	vitello alla marsala	I ordered the vitello alla marsala and I was pretty impressed.
+3FOOD#QUALITY	veal	The veal and the mushrooms were cooked perfectly.
+3FOOD#QUALITY	mushrooms	The veal and the mushrooms were cooked perfectly.
+3FOOD#QUALITY	potato balls	The potato balls were not dry at all... in fact it was buttery.
+1RESTAURANT#MISCELLANEOUS	NULL	The only downside... they only take cash which is OK if you know about it ahead of time.
+3RESTAURANT#GENERAL	NULL	I'll be back for sure.
+1RESTAURANT#GENERAL	PLACE	WORST PLACE ON SMITH STREET IN BROOKLYN
+1SERVICE#GENERAL	bartender	Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+1SERVICE#GENERAL	service	Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+1FOOD#QUALITY	food	Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+1SERVICE#GENERAL	waitresses	Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+1RESTAURANT#GENERAL	place	I would never recommend this place to anybody even for a casual dinner.
+1RESTAURANT#MISCELLANEOUS	place	I would never recommend this place to anybody even for a casual dinner.
+3RESTAURANT#GENERAL	NULL	awesome
+3FOOD#QUALITY	food	the food is always fresh ...
+1FOOD#PRICES	japanese food	overpriced japanese food with mediocre service
+2SERVICE#GENERAL	service	overpriced japanese food with mediocre service
+1RESTAURANT#GENERAL	NULL	Went here on sat 1/26 and was disappointed.
+1FOOD#STYLE_OPTIONS	Chicken teriyaki	Chicken teriyaki had tomato or pimentos on top??
+1FOOD#QUALITY	food	food was luke warm.
+1SERVICE#GENERAL	waitress	The waitress was not attentive at all.
+1FOOD#STYLE_OPTIONS	dessert	I was looking for banana tempura for dessert and they dont have.
+1RESTAURANT#PRICES	The Four Seasons	Not because you are "The Four Seasons"... 每 you are allowed to charge an arm and a leg for a romatic dinner.
+3FOOD#QUALITY	food	The food was excellent as well as service, however, I left The Four Seasons very dissappointed.
+3SERVICE#GENERAL	service	The food was excellent as well as service, however, I left The Four Seasons very dissappointed.
+1RESTAURANT#GENERAL	The Four Seasons	The food was excellent as well as service, however, I left The Four Seasons very dissappointed.
+1FOOD#PRICES	dinner	I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.
+3FOOD#QUALITY	Red Dragon Roll	Red Dragon Roll - my favorite thing to eat, of any food group - hands down
+3RESTAURANT#GENERAL	Yamato	Just go to Yamato and order the Red Dragon Roll.
+3FOOD#QUALITY	Red Dragon Roll	Just go to Yamato and order the Red Dragon Roll.
+3FOOD#QUALITY	NULL	If you don't like it, I don't know what to tell you.
+3FOOD#QUALITY	Seafood Dynamite	The Seafood Dynamite is also otherworldly.
+3FOOD#QUALITY	NULL	I'm not even going to bother to describe it; it speaks for itself.
+3FOOD#QUALITY	Sushi	Favorite Sushi in NYC
+3AMBIENCE#GENERAL	spot	An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+3FOOD#QUALITY	sushi	An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+3SERVICE#GENERAL	service	An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+3AMBIENCE#GENERAL	back garden area	In the summer months, the back garden area is really nice.
+3FOOD#STYLE_OPTIONS	rolls	The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+3FOOD#STYLE_OPTIONS	japanese food	The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+3FOOD#QUALITY	japanese food	The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+3FOOD#QUALITY	Dancing, White River and Millenium rolls	The Dancing, White River and Millenium rolls are musts.
+3RESTAURANT#GENERAL	NULL	SO GOOD
+3RESTAURANT#GENERAL	PLACE	I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE ...)
+1FOOD#QUALITY	food	Gross food 每 Wow-
+1FOOD#QUALITY	food	I can't remember the last time I had such gross food in New York.
+1FOOD#QUALITY	quesadilla	My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+1FOOD#STYLE_OPTIONS	quesadilla	My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+1FOOD#QUALITY	guacamole	And $11 for a plate of bland guacamole?
+1FOOD#PRICES	guacamole	And $11 for a plate of bland guacamole?
+1DRINKS#QUALITY	margaritas	Don't get me started on the margaritas, either.
+1DRINKS#QUALITY	NULL	Mine tasted like the bartender had forgotten to add the tequila.
+1RESTAURANT#GENERAL	NULL	Save your money and your time and go somewhere else.
+1RESTAURANT#GENERAL	place	Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word.
+3FOOD#QUALITY	Indian Food	Great Indian Food!
+3SERVICE#GENERAL	NULL	When I got there the place was packed but they made sure to seat me quickly.
+3FOOD#QUALITY	food	The food was good, the place was clean and affordable.
+3AMBIENCE#GENERAL	place	The food was good, the place was clean and affordable.
+3RESTAURANT#PRICES	place	The food was good, the place was clean and affordable.
+3RESTAURANT#MISCELLANEOUS	indian place	I noticed alot of indian people eatting there which is a great sign for an indian place!
+3RESTAURANT#GENERAL	NULL	This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+3AMBIENCE#GENERAL	NULL	This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+3FOOD#QUALITY	food	This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+3RESTAURANT#MISCELLANEOUS	NULL	This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+3SERVICE#GENERAL	staff	The staff is very good.
+3DRINKS#STYLE_OPTIONS	drink menu	Love their drink menu.
+3AMBIENCE#GENERAL	place	I highly recommend this beautiful place.
+3RESTAURANT#GENERAL	place	I highly recommend this beautiful place.
+3RESTAURANT#MISCELLANEOUS	NULL	Nice for one time special occasion.
+3SERVICE#GENERAL	NULL	They honored reservation on Sunday afternoon very well. 
+1DRINKS#PRICES	Voss bottles of water	We were offered water for the table but were not told the Voss bottles of water were $8 a piece.
+2FOOD#QUALITY	Food	Food was OK.
+3LOCATION#GENERAL	view of river and NYC	Nice view of river and NYC.
+3RESTAURANT#GENERAL	NULL	I come here enjoy very much with husband.
+3RESTAURANT#MISCELLANEOUS	NULL	Remind me of home.
+3SERVICE#GENERAL	survice	Great survice
+3FOOD#QUALITY	NULL	MMMMMMMMMmmmmmm so delicious
+3AMBIENCE#GENERAL	Egyptian restaurant	A beautifully designed dreamy Egyptian restaurant that gets sceney at night.
+3FOOD#QUALITY	baba ganoush	Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+3AMBIENCE#GENERAL	belly dancers	Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+3AMBIENCE#GENERAL	hookah	Oh, and there's hookah.
+3SERVICE#GENERAL	Raymond	Raymond the bartender rocks!
+3RESTAURANT#MISCELLANEOUS	Pacifico	Pacifico is a great place to casually hang out.
+3DRINKS#QUALITY	drinks	The drinks are great, especially when made by Raymond.
+3SERVICE#GENERAL	Raymond	The drinks are great, especially when made by Raymond.
+3FOOD#QUALITY	omlette for brunch	The omlette for brunch is great...
+3FOOD#QUALITY	spinach	the spinach is fresh, definately not frozen...
+3FOOD#QUALITY	quacamole	quacamole at pacifico is yummy, as are the wings with chimmichuri.
+3FOOD#QUALITY	wings with chimmichuri	quacamole at pacifico is yummy, as are the wings with chimmichuri.
+1FOOD#QUALITY	chicken in the salads	A weakness is the chicken in the salads.
+1FOOD#QUALITY	NULL	It's just average, just shredded, no seasoning on it.
+1FOOD#QUALITY	portobello and asparagus mole	Also, I personally wasn't a fan of the portobello and asparagus mole.
+2FOOD#QUALITY	food	Overall, decent food at a good price, with friendly people.
+3FOOD#PRICES	food	Overall, decent food at a good price, with friendly people.
+3SERVICE#GENERAL	people	Overall, decent food at a good price, with friendly people.
+3RESTAURANT#GENERAL	Indian Restaurant	Best Indian Restaurant in the City
+1AMBIENCE#GENERAL	Decor	Decor needs to be upgraded but the food is amazing!
+3FOOD#QUALITY	food	Decor needs to be upgraded but the food is amazing!
+3FOOD#QUALITY	gyros	This small Astoria souvlaki spot makes what many consider the best gyros in New York.
+3FOOD#QUALITY	food	What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.
+3FOOD#QUALITY	gyro meat	What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.
+3FOOD#QUALITY	sausages	What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.
+3FOOD#QUALITY	ingredients	What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.
+3FOOD#QUALITY	Greek and Cypriot dishes	All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted.
+3FOOD#QUALITY	gyro	All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted.
+3RESTAURANT#GENERAL	restaurant	Best restaurant in Brooklyn
+3RESTAURANT#GENERAL	NULL	The best!
+3FOOD#QUALITY	food	Great food, amazing service, this place is a class act.
+3SERVICE#GENERAL	service	Great food, amazing service, this place is a class act.
+3RESTAURANT#GENERAL	place	Great food, amazing service, this place is a class act.
+3FOOD#QUALITY	veal	The veal was incredible last night.
+3FOOD#QUALITY	NULL	Fresh, mind blowing flavors.
+3RESTAURANT#GENERAL	place	This place is a must visit!
+3FOOD#QUALITY	NULL	Delicious, creative and fun.
+3FOOD#STYLE_OPTIONS	NULL	Delicious, creative and fun.
+3RESTAURANT#MISCELLANEOUS	NULL	Got a date? Go here!
+3RESTAURANT#MISCELLANEOUS	NULL	Every time I have a special occasion with my boyfriend I have a hard time going anywhere else.
+3AMBIENCE#GENERAL	NULL	It is so romantic.
+3AMBIENCE#GENERAL	NULL	Its dark, and cozy.. there is always jazz music playing when we go.
+3AMBIENCE#GENERAL	booths	Most of the booths allow you to sit next to eachother without looking like 'that' couple.
+3FOOD#STYLE_OPTIONS	food	The food is all shared so we get to order together and eat together.
+3FOOD#QUALITY	dishes	I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+1FOOD#QUALITY	dish	I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+3RESTAURANT#MISCELLANEOUS	NULL	Once you try it for a special occasion beware.. you can't stop!
+3RESTAURANT#MISCELLANEOUS	NULL	You'll be ther for every anniversary, birthday, valentines day...
+3RESTAURANT#MISCELLANEOUS	NULL	For a Fabulous Wedding!
+3RESTAURANT#MISCELLANEOUS	Water's Edge	My daughter's wedding reception at Water's Edge received the highest compliments from our guests.
+3AMBIENCE#GENERAL	atmosphere	Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+3AMBIENCE#GENERAL	rooms	Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+3LOCATION#GENERAL	views	Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+3FOOD#QUALITY	food	Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+3SERVICE#GENERAL	Service	Service was wonderful;
+3SERVICE#GENERAL	NULL	everyone was cheerfully cooperative and helpful.
+3SERVICE#GENERAL	Paul	Paul, the maitre d', was totally professional and always on top of things.
+3RESTAURANT#GENERAL	Water's Edge	Thank you everyone at Water's Edge.
+1RESTAURANT#GENERAL	NULL	would NOT go back.
+1SERVICE#GENERAL	Service	Service ok but unfriendly,filthy bathroom.
+1AMBIENCE#GENERAL	bathroom	Service ok but unfriendly,filthy bathroom.
+2LOCATION#GENERAL	view	The high prices you're going to pay is for the view not for the food.
+1FOOD#QUALITY	food	The high prices you're going to pay is for the view not for the food.
+1RESTAURANT#PRICES	NULL	The high prices you're going to pay is for the view not for the food.
+1DRINKS#QUALITY	bar drinks	The bar drinks were Eh, ok to say the least.
+1FOOD#QUALITY	stuff tilapia	The stuff tilapia was horrid...tasted like cardboard.
+1FOOD#QUALITY	dessert	We thought the dessert would be better, Wrong!
+1RESTAURANT#GENERAL	NULL	$170 down the toilet...
+1RESTAURANT#PRICES	NULL	$170 down the toilet...
+1AMBIENCE#GENERAL	mens bathroom	oh speaking of bathroom , the mens bathroom was disgusting.
+1AMBIENCE#GENERAL	NULL	The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left.
+3RESTAURANT#GENERAL	NULL	Good Experience
+3DRINKS#STYLE_OPTIONS	wine list	The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+1SERVICE#GENERAL	staff	The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+1FOOD#QUALITY	bread	The bread we received was horrible - rock hard and cold - and the "free" appetizer of olives was disappointing.
+1FOOD#QUALITY	appetizer of olives	The bread we received was horrible - rock hard and cold - and the "free" appetizer of olives was disappointing.
+2FOOD#PRICES	appetizer of olives	The bread we received was horrible - rock hard and cold - and the "free" appetizer of olives was disappointing.
+3FOOD#QUALITY	main course	However, our main course was wonderful.
+3FOOD#QUALITY	fish	I had fish and my husband had the filet - both of which exceeded our expectations.
+3FOOD#QUALITY	filet	I had fish and my husband had the filet - both of which exceeded our expectations.
+3FOOD#QUALITY	pear torte	The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.
+1SERVICE#GENERAL	staff	The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.
+1SERVICE#GENERAL	waitress	When we inquired about ports - the waitress listed off several but did not know taste variations or cost.
+1SERVICE#GENERAL	NULL	Not what I would expect for the price and prestige of this location.
+2RESTAURANT#PRICES	location	Not what I would expect for the price and prestige of this location.
+2RESTAURANT#MISCELLANEOUS	location	Not what I would expect for the price and prestige of this location.
+3RESTAURANT#GENERAL	restaurant	All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.
+3AMBIENCE#GENERAL	restaurant	All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.
+1SERVICE#GENERAL	staff	All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.
+3AMBIENCE#GENERAL	seating	short and sweet 每 seating is great:it's romantic,cozy and private.
+3AMBIENCE#GENERAL	boths	The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.
+3SERVICE#GENERAL	service	The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+3SERVICE#GENERAL	service button	The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+1SERVICE#GENERAL	waiter	The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+2FOOD#QUALITY	food	The food was ok and fair nothing to go crazy.
+3AMBIENCE#GENERAL	looks	Over all the looks of the place exceeds the actual meals.
+1FOOD#QUALITY	meals	Over all the looks of the place exceeds the actual meals.
+1RESTAURANT#PRICES	restaurant	So what you really end up paying for is the restaurant not the food.
+2AMBIENCE#GENERAL	restaurant	So what you really end up paying for is the restaurant not the food.
+1FOOD#QUALITY	food	So what you really end up paying for is the restaurant not the food.
+1RESTAURANT#GENERAL	NULL	Will prob. not return but it is a great dinning experience to try atleast once.
+3RESTAURANT#GENERAL	NULL	Will prob. not return but it is a great dinning experience to try atleast once.
+3RESTAURANT#GENERAL	NULL	Impressed...
+3FOOD#QUALITY	food	Subtle food and service
+3SERVICE#GENERAL	service	Subtle food and service
+3SERVICE#GENERAL	service	Noodle pudding is exactly the type of service and food I enjoy.
+3FOOD#QUALITY	food	Noodle pudding is exactly the type of service and food I enjoy.
+3SERVICE#GENERAL	Greg	Servers are all different, Greg is my favorite.
+3SERVICE#GENERAL	server	Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner.
+3SERVICE#GENERAL	runner	This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.
+3FOOD#PRICES	food	Prices are fair across the board for both food and bev.
+3DRINKS#PRICES	bev	Prices are fair across the board for both food and bev.
+3SERVICE#GENERAL	servers	I go out to eat and like my courses, servers are patient and never rush courses or force another drink.
+3FOOD#QUALITY	dogs	amazing fresh dogs but best of all endless toppings!!!
+3FOOD#STYLE_OPTIONS	toppings	amazing fresh dogs but best of all endless toppings!!!
+3FOOD#STYLE_OPTIONS	trimmings	this place had ALL the trimmings and i mean all.
+3FOOD#STYLE_OPTIONS	NULL	peppers, onions, relish, chilli, cheeses, you NAME it.
+3RESTAURANT#GENERAL	place	amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+3FOOD#QUALITY	hot dog	amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+3RESTAURANT#GENERAL	NULL	BEST DINING EXPERIENCE IN THE WEST VILLAGE!
+3RESTAURANT#GENERAL	Casa La Femme	Stepping into Casa La Femme last night was a true experience unlike any other in New York!
+3AMBIENCE#GENERAL	decor	Highly impressed from the decor to the food to the hospitality to the great night I had!
+3FOOD#QUALITY	food	Highly impressed from the decor to the food to the hospitality to the great night I had!
+3SERVICE#GENERAL	NULL	Highly impressed from the decor to the food to the hospitality to the great night I had!
+3RESTAURANT#GENERAL	NULL	Highly impressed from the decor to the food to the hospitality to the great night I had!
+3DRINKS#QUALITY	cocktail with Citrus Vodka and lemon and lime juice and mint leaves	The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!
+3FOOD#QUALITY	Food	Food took some time to prepare, all worth waiting for.
+2SERVICE#GENERAL	NULL	Food took some time to prepare, all worth waiting for.
+3AMBIENCE#GENERAL	belly dancing show	We were drawn into the belly dancing show that captivated the crowd.
+3RESTAURANT#GENERAL	restaurant	I never write on these sites but this restaurant is def worth commending!
+3RESTAURANT#GENERAL	NULL	Great find in the West Village!
+1FOOD#QUALITY	food	Maggot in the food!
+3FOOD#STYLE_OPTIONS	menu	The menu looked great, and the waiter was very nice, but when the food came, it was average.
+3SERVICE#GENERAL	waiter	The menu looked great, and the waiter was very nice, but when the food came, it was average.
+2FOOD#QUALITY	food	The menu looked great, and the waiter was very nice, but when the food came, it was average.
+1FOOD#QUALITY	mushroom sauce	Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom.
+3SERVICE#GENERAL	manager	I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for).
+1SERVICE#GENERAL	manager	I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for).
+1SERVICE#GENERAL	NULL	When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it.
+1SERVICE#GENERAL	manager	The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession.
+1SERVICE#GENERAL	NULL	We paid and left because we didn't feel like arguing any more.
+1FOOD#QUALITY	food	I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food.
+3RESTAURANT#MISCELLANEOUS	restaurant	For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.
+1SERVICE#GENERAL	customer service	For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.
+1FOOD#QUALITY	NULL	Unhygienic
+1RESTAURANT#GENERAL	NULL	I do not recommend.
+1FOOD#QUALITY	food	I got hair in my food 2 times of then !
+3RESTAURANT#GENERAL	place	Great place, great value.
+3RESTAURANT#PRICES	place	Great place, great value.
+3FOOD#QUALITY	food	The food is flavorful, plentiful and reasonably priced.
+3FOOD#STYLE_OPTIONS	food	The food is flavorful, plentiful and reasonably priced.
+3FOOD#PRICES	food	The food is flavorful, plentiful and reasonably priced.
+3AMBIENCE#GENERAL	atmosphere	The atmosphere is relaxed and casual.
+3RESTAURANT#MISCELLANEOUS	place	It's a great place to order from or sit-in.
+3RESTAURANT#GENERAL	NULL	Awesome
+3RESTAURANT#PRICES	NULL	Inexpensive, unassuming, great time!
+3AMBIENCE#GENERAL	NULL	Inexpensive, unassuming, great time!
+3RESTAURANT#GENERAL	NULL	Inexpensive, unassuming, great time!
+3FOOD#QUALITY	Sushi	Sushi experience was unbelievable with my fiance.
+3RESTAURANT#GENERAL	NULL	Try it!
+3RESTAURANT#GENERAL	NULL	Very pleased
+3FOOD#QUALITY	rolls	Good creative rolls!
+3FOOD#STYLE_OPTIONS	rolls	Good creative rolls!
+3RESTAURANT#MISCELLANEOUS	Yamato	Yamato is an excellent place to go if youre not into sashimi, or if you have friends who doesnt like sushi much.
+3FOOD#QUALITY	rolls	They have great rolls, the triple color and norwegetan rolls, are awesome and filling.
+3FOOD#QUALITY	triple color and norwegetan rolls	They have great rolls, the triple color and norwegetan rolls, are awesome and filling.
+3FOOD#STYLE_OPTIONS	triple color and norwegetan rolls	They have great rolls, the triple color and norwegetan rolls, are awesome and filling.
+3FOOD#QUALITY	dessert	One special roll and one regular roll is enough to fill you up, but save room for dessert!
+3FOOD#STYLE_OPTIONS	special roll	One special roll and one regular roll is enough to fill you up, but save room for dessert!
+3FOOD#STYLE_OPTIONS	regular roll	One special roll and one regular roll is enough to fill you up, but save room for dessert!
+3FOOD#QUALITY	banana chocolate dessert	They have a delicious banana chocolate dessert, as well as a great green tea tempura.
+3FOOD#QUALITY	green tea tempura	They have a delicious banana chocolate dessert, as well as a great green tea tempura.
+3FOOD#QUALITY	appetizers	The appetizers are also delicious!
+3FOOD#QUALITY	food	Amazing food.
+1AMBIENCE#GENERAL	interior	Mazing interior.
+3FOOD#QUALITY	food	Great food!
+3FOOD#QUALITY	modern Japanese	I've had my fair share of modern Japanese and this spot delivers.
+1AMBIENCE#GENERAL	atmosphere	The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.
+1AMBIENCE#GENERAL	scheme of mirrors	The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.
+1AMBIENCE#GENERAL	NULL	If you're into being lost when you're just five feet from your table then hey, that's a good thing.
+3FOOD#QUALITY	modern Japanese food	Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+1AMBIENCE#GENERAL	mirrors	Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+3FOOD#QUALITY	Indo Chinese food	Indo Chinese food, pretty good...
+2AMBIENCE#GENERAL	place	Not a very fancy place but very good Chinese style Indian food.
+3FOOD#QUALITY	Chinese style Indian food	Not a very fancy place but very good Chinese style Indian food.
+3FOOD#QUALITY	chicken lollipop	The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.
+1FOOD#QUALITY	dishes	The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.
+1FOOD#QUALITY	Chilli Chicken	The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.
+1FOOD#QUALITY	food	My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily.
+3RESTAURANT#GENERAL	NULL	Still we keep going back :)
+1FOOD#QUALITY	food	I was speechless by the horrible food.
+1FOOD#QUALITY	food	I attended a holiday dinner at the restaurant, and the food was majorly disappointing.
+1SERVICE#GENERAL	chef	Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).
+1FOOD#QUALITY	vegetarian dish	Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).
+1FOOD#STYLE_OPTIONS	vegetarian dish	Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).
+1RESTAURANT#GENERAL	NULL	I was so stunned, and I left the dinner hungry and majorly disappointing.
+1RESTAURANT#MISCELLANEOUS	place	This place survives on reputation alone.
+1RESTAURANT#GENERAL	NULL	I will NEVER return.
+3RESTAURANT#GENERAL	NULL	Best In ALL of NYC
+3RESTAURANT#GENERAL	restaurant	This is the MOST wonderful restaurant in all of New York City, not just Brooklyn...
+3FOOD#QUALITY	food	for 7 years they have put out the most tasty, most delicious food and kept it that way...
+3RESTAURANT#GENERAL	NULL	never swaying, never a bad meal, never bad service...
+3FOOD#QUALITY	meal	never swaying, never a bad meal, never bad service...
+3SERVICE#GENERAL	service	never swaying, never a bad meal, never bad service...
+3RESTAURANT#GENERAL	NULL	you should travel from the Bronx to try it...
+3FOOD#QUALITY	food	great food, great wine list, great service in a great neighborhood...
+3DRINKS#STYLE_OPTIONS	wine list	great food, great wine list, great service in a great neighborhood...
+3SERVICE#GENERAL	service	great food, great wine list, great service in a great neighborhood...
+3LOCATION#GENERAL	neighborhood	great food, great wine list, great service in a great neighborhood...
+3FOOD#QUALITY	NULL	so delicious!!!!!!
+3RESTAURANT#GENERAL	Patsy's Pizza	Patsy's Pizza = true love
+3FOOD#QUALITY	pizza	Hands down the best pizza on the planet.
+3FOOD#QUALITY	NULL	In about 12 minutes, the thing is gone.
+3FOOD#QUALITY	hot dogs	great hot dogs..
+3FOOD#QUALITY	hot dogs	the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.
+3FOOD#QUALITY	toppings	great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+3RESTAURANT#MISCELLANEOUS	place	great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+3FOOD#QUALITY	NULL	great taste
+3FOOD#QUALITY	NULL	Great, original taste.
+1FOOD#QUALITY	dishes	For me dishes a little oily, but overall dining experience good.
+3RESTAURANT#GENERAL	NULL	For me dishes a little oily, but overall dining experience good.
+3SERVICE#GENERAL	service	Helpful service and average price per dish $10.
+2FOOD#PRICES	dish	Helpful service and average price per dish $10.
+1AMBIENCE#GENERAL	decor	The only thing that strikes you is the decor?(not very pleasant).
+3FOOD#QUALITY	food	great food
+3FOOD#QUALITY	indian chinese food	This place has great indian chinese food.
+3FOOD#QUALITY	NULL	The flavors are amazing and the value is phenomenal.
+3FOOD#PRICES	NULL	The flavors are amazing and the value is phenomenal.
+1RESTAURANT#MISCELLANEOUS	place	Be prepared to wait, because the place is pretty tiny.
+1AMBIENCE#GENERAL	place	Be prepared to wait, because the place is pretty tiny.
+2RESTAURANT#MISCELLANEOUS	NULL	Also, they do not take credit card so come with cash!
+1AMBIENCE#GENERAL	place	Even though the place is not beautiful, the food speaks for itself.
+3FOOD#QUALITY	food	Even though the place is not beautiful, the food speaks for itself.
+3FOOD#QUALITY	Indian Chinese	Best Indian Chinese in the city, by far!
+3RESTAURANT#GENERAL	NULL	AMAZING MY FAVORITE!!!
+3RESTAURANT#GENERAL	Village Underground	I came across Village Underground by accident, now I go there all the time.
+3DRINKS#QUALITY	martinis	The martinis are amazing and very fairly priced.
+3DRINKS#PRICES	martinis	The martinis are amazing and very fairly priced.
+3SERVICE#GENERAL	SERVICE	THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC.
+3SERVICE#GENERAL	waiters	THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC.
+3AMBIENCE#GENERAL	DJ	The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.
+3RESTAURANT#GENERAL	NULL	The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.
+3SERVICE#GENERAL	NULL	You can get a table without a reservation if you get there early I they don't make you by bottles.
+3SERVICE#GENERAL	NULL	Which lets face it....at times it's a good thing.
+3RESTAURANT#PRICES	NULL	In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!
+3RESTAURANT#GENERAL	NULL	In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!
+3RESTAURANT#GENERAL	NULL	Highly recommended!
+3RESTAURANT#GENERAL	NULL	One of the best, if not THE best, restaurants in Park Slope (and NY in general)
+3FOOD#QUALITY	menu	Everything on the menu is great. 
+3RESTAURANT#GENERAL	establishment	This establishment is the real deal. 
+3AMBIENCE#GENERAL	NULL	Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.
+3FOOD#QUALITY	food	Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.
+3RESTAURANT#GENERAL	NULL	Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.
+1FOOD#PRICES	dinner for two	But $500 for a dinner for two that didn't include Wine?
+3FOOD#QUALITY	appetizers	Look, the appetizers were really good.
+3FOOD#QUALITY	entree	The entree was also very good.
+1FOOD#PRICES	NULL	Can't argue about that, but they are clearly over priced.
+2AMBIENCE#GENERAL	environment	What you are paying for is the environment and the name.
+2RESTAURANT#MISCELLANEOUS	NULL	What you are paying for is the environment and the name.
+1RESTAURANT#PRICES	NULL	What you are paying for is the environment and the name.
+3AMBIENCE#GENERAL	place	Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.
+1RESTAURANT#PRICES	place	Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.
+1FOOD#QUALITY	NULL	Which of course is not real Kobe but Wagyu beef.
+1RESTAURANT#MISCELLANEOUS	NULL	Surprised that a place of this caliber would advertise it as Kobe.
+2FOOD#QUALITY	Vanison	Vanison was good but not amazing.
+3FOOD#QUALITY	Bison	Bison was quite excellent however.
+1FOOD#QUALITY	Dessert	Dessert: pure disaster.
+1FOOD#QUALITY	NULL	Just not good at all.
+1FOOD#STYLE_OPTIONS	NULL	Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+1FOOD#QUALITY	NULL	Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+1RESTAURANT#PRICES	restaurant	I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.
+1RESTAURANT#GENERAL	restaurant	I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.
+2RESTAURANT#MISCELLANEOUS	The Four Seasons	The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say "I've been to the four seasons restaurant".
+1RESTAURANT#PRICES	The Four Seasons	The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say "I've been to the four seasons restaurant".
+1RESTAURANT#GENERAL	NULL	I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it.
+1RESTAURANT#PRICES	NULL	I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it.
+3FOOD#QUALITY	food	All in all, the food was great (except for the dessserts).
+1FOOD#QUALITY	dessserts	All in all, the food was great (except for the dessserts).
+2AMBIENCE#GENERAL	environment	The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+2RESTAURANT#MISCELLANEOUS	NULL	The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+1FOOD#QUALITY	food	If you are going for the food, it will not be worth it.
+1SERVICE#GENERAL	service	You would think they would make up for it with service, sadly, no.
+1SERVICE#GENERAL	Service	Service was just ok, it is not what you'd expect for $500.
+1RESTAURANT#PRICES	NULL	Service was just ok, it is not what you'd expect for $500.
+1RESTAURANT#GENERAL	NULL	Terrible Waste of money.. scammers
+1RESTAURANT#PRICES	NULL	Terrible Waste of money.. scammers
+1RESTAURANT#GENERAL	Casa La Femme	I agree that dining at Casa La Femme is like no other dining experience!
+1RESTAURANT#GENERAL	NULL	I am actually offended to have spent so much money on such a bad experience.
+1RESTAURANT#PRICES	NULL	I am actually offended to have spent so much money on such a bad experience.
+1RESTAURANT#GENERAL	Casa La Femme	I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.
+1RESTAURANT#PRICES	Casa La Femme	I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.
+1RESTAURANT#GENERAL	NULL	Our visit their to say the least, was an unpleasant and costly experience!
+1RESTAURANT#PRICES	NULL	Our visit their to say the least, was an unpleasant and costly experience!
+1RESTAURANT#GENERAL	NULL	And even more so unpleasant because it was so costly for such an unpleasant experience.
+1RESTAURANT#PRICES	NULL	And even more so unpleasant because it was so costly for such an unpleasant experience.
+2SERVICE#GENERAL	wait	We did arrive late for our reservation so I can not complain too much about the wait for a table.
+1SERVICE#GENERAL	NULL	Although we were told 10-15 minutes and it was more like 45 minutes.
+3RESTAURANT#GENERAL	NULL	We were ushered to the bar to wait momentarily and upon arrival were so excited.
+3AMBIENCE#GENERAL	place	The place is beautiful!
+3SERVICE#GENERAL	hostess	The hostess was very pleasant.
+1DRINKS#QUALITY	drinks	However, our $14 drinks were were horrible!
+1DRINKS#PRICES	drinks	However, our $14 drinks were were horrible!
+1SERVICE#GENERAL	NULL	Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!
+1RESTAURANT#GENERAL	NULL	Our experience did not ever get any better.
+1SERVICE#GENERAL	NULL	For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.
+1SERVICE#GENERAL	waiter	We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.
+1SERVICE#GENERAL	waiter	After the 4th time i asked again and the waiter than said after our dinner.
+1SERVICE#GENERAL	NULL	We asked for beverages and never received them.
+1SERVICE#GENERAL	waiter	We asked for sides which the waiter than admitted that he forgot to put in that part of our order.
+1FOOD#QUALITY	chicken	My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.
+1FOOD#QUALITY	dinner	I would not expect this for a $55 dinner.
+1FOOD#PRICES	dinner	I would not expect this for a $55 dinner.
+1SERVICE#GENERAL	NULL	By the time we finished our dinner we still had not received one beverage NOR hooka!
+1SERVICE#GENERAL	NULL	What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!
+1SERVICE#GENERAL	NULL	The only beverage we did receive was water in dirty glasses!
+1SERVICE#GENERAL	NULL	To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+1RESTAURANT#MISCELLANEOUS	NULL	To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+1FOOD#QUALITY	food	By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!
+1RESTAURANT#PRICES	NULL	By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!
+1RESTAURANT#MISCELLANEOUS	NULL	By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!
+1FOOD#QUALITY	meal	If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+1RESTAURANT#PRICES	NULL	If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+1RESTAURANT#GENERAL	restaurant	I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.
+1RESTAURANT#PRICES	restaurant	I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.
+1RESTAURANT#GENERAL	NULL	MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+1RESTAURANT#PRICES	NULL	MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+1SERVICE#GENERAL	NULL	MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+1RESTAURANT#GENERAL	NULL	I wish I COULD be refunded!
+1RESTAURANT#MISCELLANEOUS	NULL	Don't go with a larger group than 4! 
+3SERVICE#GENERAL	NULL	At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us.
+2FOOD#STYLE_OPTIONS	menu	The menu is fairly simple without much descriptions. 
+1DRINKS#STYLE_OPTIONS	beer	There was no tap beer that evening, which was a disappointment. 
+1DRINKS#STYLE_OPTIONS	selection of bottled beer	Not much of a selection of bottled beer either, we went with Brahma. 
+3FOOD#QUALITY	fried oysters and clams	The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+1FOOD#STYLE_OPTIONS	fried oysters and clams	The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+3SERVICE#GENERAL	NULL	The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+2FOOD#STYLE_OPTIONS	lobster knuckles	The lobster knuckles (special of the day) were ok, but pretty tasteless.
+1FOOD#QUALITY	lobster knuckles	The lobster knuckles (special of the day) were ok, but pretty tasteless.
+1FOOD#STYLE_OPTIONS	&quot;salt encrusted shrimp&quot; appetizer	I believe there were 2 shrimp in the "salt encrusted shrimp" appetizer. 
+1SERVICE#GENERAL	NULL	She replied "well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded." 
+2SERVICE#GENERAL	NULL	The food arrived in about 15 minutes. 
+3FOOD#QUALITY	Thai style Fried Sea Bass	I had the Thai style Fried Sea Bass...which was very good. 
+3FOOD#QUALITY	food	Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! 
+1FOOD#QUALITY	grilled Mahi Mahi	Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! 
+1FOOD#STYLE_OPTIONS	grilled Mahi Mahi	Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! 
+3FOOD#QUALITY	lobster roll	I heard the lobster roll was excellent. 
+1SERVICE#GENERAL	NULL	They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand). 
+3FOOD#QUALITY	food	All in all the food was good - a little on the expensive side, but fresh. 
+1FOOD#PRICES	food	All in all the food was good - a little on the expensive side, but fresh. 
+1SERVICE#GENERAL	Service	Service not the friendliest to our "large party"! 
+1RESTAURANT#GENERAL	NULL	Probably would not go back here.
+3FOOD#QUALITY	Indian food	Great Indian food
+3FOOD#QUALITY	Food	Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had.
+2FOOD#STYLE_OPTIONS	Indian food	Very "normal Indian food", but done really well.
+3FOOD#QUALITY	Indian food	Very "normal Indian food", but done really well.
+3RESTAURANT#GENERAL	place	I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.
+1RESTAURANT#PRICES	place	I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.
+1FOOD#PRICES	chicken tikka masala	I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.
+1AMBIENCE#GENERAL	feel	I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.
+1SERVICE#GENERAL	waiters	Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $.
+1SERVICE#GENERAL	NULL	I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+1RESTAURANT#PRICES	NULL	I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+3FOOD#QUALITY	Indian food	But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food
+1RESTAURANT#PRICES	place	But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food
+3RESTAURANT#GENERAL	NULL	One of the BEST
+3RESTAURANT#GENERAL	Bukhara Grill	Bukhara Grill, the tagline says it all.. "INDIAN SPICE RAVE"
+1FOOD#PRICES	lunch buffet	The lunch buffet is expensive but is deff worth it.
+3FOOD#QUALITY	lunch buffet	The lunch buffet is expensive but is deff worth it.
+3SERVICE#GENERAL	service	We have gone for dinner only a few times but the same great quality and service is given.
+3FOOD#QUALITY	dinner	We have gone for dinner only a few times but the same great quality and service is given.
+3RESTAURANT#GENERAL	Bukhara	Bukhara is on my top 5 Indian places in NYC
+1RESTAURANT#GENERAL	NULL	Wretched and retching
+1FOOD#QUALITY	food	I have never been so disgusted by both food an service.
+1SERVICE#GENERAL	service	I have never been so disgusted by both food an service.
+1SERVICE#GENERAL	NULL	For starters they delivered us someone else's order.
+1FOOD#QUALITY	kimchee	However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin.
+1FOOD#QUALITY	Korean fair	However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin.
+1FOOD#QUALITY	food	My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.
+1SERVICE#GENERAL	NULL	My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.
+1SERVICE#GENERAL	NULL	None was made so i hung up.
+1FOOD#QUALITY	NULL	Less than three minutes passed before I found myself doubled over the toilet.
+1FOOD#QUALITY	meal	My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.
+1SERVICE#GENERAL	NULL	My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.
+1RESTAURANT#GENERAL	restaurant	It wasn't as if this restaurant had any major bragging points before hand, but now it's simply repulsive.
+1FOOD#QUALITY	NULL	Eat at your own risk.
+3AMBIENCE#GENERAL	place	Gorgeous place ideal for a romantic dinner
+3RESTAURANT#MISCELLANEOUS	place	Gorgeous place ideal for a romantic dinner
+3FOOD#QUALITY	four course prix fix menu	I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+3AMBIENCE#GENERAL	white organza tent	I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+3SERVICE#GENERAL	service	The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+3SERVICE#GENERAL	waiter	The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+3RESTAURANT#MISCELLANEOUS	Casa La Femme	I completely recommend Casa La Femme for any special occasion and to REALLY impress your date.
+1RESTAURANT#GENERAL	NULL	More Williamsburg Garbage
+1SERVICE#GENERAL	NULL	The dishes came out around 5 minutes apart.
+2FOOD#QUALITY	bibimbap	The bibimbap was average, but the stone bowl wasn't even close to sizzling.
+1FOOD#QUALITY	stone bowl	The bibimbap was average, but the stone bowl wasn't even close to sizzling.
+1FOOD#PRICES	stone bowl	Too bad I had paid an extra $2 for the stone bowl.
+1FOOD#QUALITY	nakgi-bokum	The nakgi-bokum was horrible.
+1FOOD#QUALITY	stir-fried squid	Easily the worst stir-fried squid I've ever tasted.
+1FOOD#QUALITY	sauce	The sauce tasted more like Chinese fast food than decent Korean.
+2FOOD#QUALITY	side dishes	The side dishes were passable, and I did get a refill upon request.
+3FOOD#STYLE_OPTIONS	side dishes	The side dishes were passable, and I did get a refill upon request.
+1SERVICE#GENERAL	service	The real problem I had with this place was the complete lack of service.
+1SERVICE#GENERAL	NULL	She just nodded and walked off.
+1SERVICE#GENERAL	NULL	As to my comment about the food, no apology or acknowledgment was made.
+1FOOD#QUALITY	dish	My wife had barely touched that mess of a dish.
+1SERVICE#GENERAL	NULL	We were charged full price.
+3RESTAURANT#GENERAL	NULL	Lives up to the hype
+2RESTAURANT#MISCELLANEOUS	NULL	We've tried before but it always packed and doesn't take reservations.
+3RESTAURANT#GENERAL	NULL	It was well worth the wait.
+3FOOD#QUALITY	risotto	The wife had the risotto which was amazing.
+1FOOD#STYLE_OPTIONS	NULL	It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal.
+3FOOD#QUALITY	NULL	It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal.
+3FOOD#QUALITY	farro salad	The farro salad and the mashed yukon potatoes were also extremely tasty.
+3FOOD#QUALITY	mashed yukon potatoes	The farro salad and the mashed yukon potatoes were also extremely tasty.
+3RESTAURANT#GENERAL	east village pizza	i love margherita pizza 每 i looove east village pizza
+3FOOD#QUALITY	margherita pizza	i love margherita pizza 每 i looove east village pizza
+3RESTAURANT#GENERAL	place	Love this place, every time we are in the city this is one of the places we always go.
+2FOOD#QUALITY	slice of NYC pizza	A quintessential slice of NYC pizza.
+3FOOD#QUALITY	crust	The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.
+3FOOD#QUALITY	sauce	The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.
+3FOOD#QUALITY	cheese	The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.
+3FOOD#QUALITY	margherita pizza	Personally I like the margherita pizza better, but they are all good.
+3FOOD#QUALITY	NULL	Personally I like the margherita pizza better, but they are all good.
+3AMBIENCE#GENERAL	Restaurant	Possibly the Most Romantic Restaurant in the City
+3RESTAURANT#GENERAL	modern Japanese brasserie	This is undoubtedly my favorite modern Japanese brasserie (that don＊t serve sushi), and in my opinion, one of the most romantic restaurants in the city!
+3AMBIENCE#GENERAL	modern Japanese brasserie	This is undoubtedly my favorite modern Japanese brasserie (that don＊t serve sushi), and in my opinion, one of the most romantic restaurants in the city!
+2LOCATION#GENERAL	spot	Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d谷cor will make you feel like you＊re no longer in the city.
+3AMBIENCE#GENERAL	unmarked wooden doors	Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d谷cor will make you feel like you＊re no longer in the city.
+3AMBIENCE#GENERAL	d谷cor	Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d谷cor will make you feel like you＊re no longer in the city.
+3AMBIENCE#GENERAL	private booths	If you＊re planning to come here, make sure that your date is someone whom you really like since you＊ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).
+3AMBIENCE#GENERAL	glass ceilings	If you＊re planning to come here, make sure that your date is someone whom you really like since you＊ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).
+3AMBIENCE#GENERAL	NULL	It＊s just you and your date and an occasional cute ＆excuse me＊ before the waiter opens the little curtain to your booth!
+3SERVICE#GENERAL	waiter	It＊s just you and your date and an occasional cute ＆excuse me＊ before the waiter opens the little curtain to your booth!
+3FOOD#PRICES	BBE $29 fixe prix menu	My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!
+3FOOD#STYLE_OPTIONS	BBE $29 fixe prix menu	My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!
+3FOOD#QUALITY	sashimi amuse bouche	We started off with a delightful sashimi amuse bouche.
+3FOOD#QUALITY	Grilled Black Cod	I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.
+3FOOD#QUALITY	Grilled Salmon dish	I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.
+2FOOD#STYLE_OPTIONS	entrees	The entrees were served with miso soup and rice.
+3DRINKS#QUALITY	sake＊s	The sake＊s complimented the courses very well and is successfully easing me into the sake world.
+2FOOD#QUALITY	frozen black sesame mousse	For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.
+3FOOD#QUALITY	matcha (powdered green tea) and blueberry cheesecake	For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.
+3RESTAURANT#GENERAL	brasserie	Maybe it was the great company (I had friends visiting from Philly 每 yes, it was not a date this time) or the super reasonable price point, but I just can＊t say enough good things about this brasserie.
+3RESTAURANT#PRICES	brasserie	Maybe it was the great company (I had friends visiting from Philly 每 yes, it was not a date this time) or the super reasonable price point, but I just can＊t say enough good things about this brasserie.
+3RESTAURANT#GENERAL	Zenkichi	I don＊t usually visit the same establishment more than once, what more twice, but I＊ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.
+3AMBIENCE#GENERAL	Zenkichi	I don＊t usually visit the same establishment more than once, what more twice, but I＊ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.
+1RESTAURANT#GENERAL	NULL	Terrible would be a compliment!
+1SERVICE#GENERAL	service	The service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night.
+1SERVICE#GENERAL	NULL	We paid a fixed pricce but got nothing!!
+1SERVICE#GENERAL	NULL	We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.
+1SERVICE#GENERAL	service	They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!
+1DRINKS#PRICES	drinks	They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!
+1FOOD#PRICES	pita bread	They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!
+1SERVICE#GENERAL	NULL	They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!
+1RESTAURANT#GENERAL	NULL	Stay away
+3FOOD#QUALITY	Shabu Shabu	Great Shabu Shabu
+3RESTAURANT#GENERAL	NULL	I love it.
+2FOOD#QUALITY	dishes	I tried a couple other dishes but wasn't too impressed.
+3FOOD#QUALITY	Shabu Shabu	But for the Shabu Shabu, you won't find much better in NY.
+3FOOD#QUALITY	meat	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+3FOOD#QUALITY	sauces	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+3SERVICE#GENERAL	service	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+3FOOD#STYLE_OPTIONS	meal	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+3FOOD#PRICES	kimchi	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+3FOOD#PRICES	salad	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+3FOOD#QUALITY	Korean food	Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+3FOOD#QUALITY	fusion twists	Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+3FOOD#QUALITY	pork belly tacos	Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+3FOOD#QUALITY	hot dogs	The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.
+3FOOD#QUALITY	pork croquette sandwich	The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.
+3FOOD#QUALITY	bun	The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.
+2LOCATION#GENERAL	view	Restaurant with a view
+3FOOD#QUALITY	food	The food tasted very good.
+3FOOD#QUALITY	family seafood entree	The family seafood entree was very good.
+3FOOD#QUALITY	main entree	The main entree was also very good.
+3FOOD#QUALITY	food	Price is high but the food is good, so I would come back again.
+1FOOD#PRICES	food	Price is high but the food is good, so I would come back again.
+3RESTAURANT#GENERAL	NULL	Price is high but the food is good, so I would come back again.
+1RESTAURANT#GENERAL	place	This place doesn't make any sense
+1RESTAURANT#GENERAL	NULL	Just want to warn you all - don't waste your time and money.
+1AMBIENCE#GENERAL	decor	This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...
+1AMBIENCE#GENERAL	mirrored walls	This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...
+1AMBIENCE#GENERAL	place	This place is not inviting and the food is totally weird.
+1FOOD#QUALITY	food	This place is not inviting and the food is totally weird.
+1FOOD#STYLE_OPTIONS	japanese tapas	The concept of japanese tapas is newly created and clearly doesn't work.
+1FOOD#QUALITY	food	The food they serve is not comforting, not appetizing and uncooked.
+3FOOD#QUALITY	Food	Good Food
+3FOOD#QUALITY	food	The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner.
+1AMBIENCE#GENERAL	sitting space	The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner.
+3RESTAURANT#GENERAL	place	Over all it was a very nice romantic place .
+3AMBIENCE#GENERAL	place	Over all it was a very nice romantic place .
+3RESTAURANT#GENERAL	NULL	Loved it
+3RESTAURANT#GENERAL	Pacifico	A coworker and I tried Pacifico after work a few Fridays and loved it.
+3AMBIENCE#GENERAL	atmosphere	The atmosphere was great.
+3FOOD#QUALITY	food	The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.
+2DRINKS#QUALITY	margaritas	The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.
+2SERVICE#GENERAL	waitress	Our waitress wasn't mean, but not especially warm or attentive either.
+3RESTAURANT#GENERAL	restaurant	I must say I am surprised by the bad reviews of the restaurant earlier in the year, though.
+3AMBIENCE#GENERAL	patio	Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio.
+3RESTAURANT#GENERAL	NULL	Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio.
+1RESTAURANT#GENERAL	NULL	Dumbfoundingly Poor
+1RESTAURANT#GENERAL	NULL	This was, from start to finish, a mind-bogglingly uncomfortable experience.
+1SERVICE#GENERAL	NULL	Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.
+1SERVICE#GENERAL	servers	The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.
+1SERVICE#GENERAL	NULL	Polite acknowledgement is out;
+1SERVICE#GENERAL	NULL	supercilious scorn is in.
+1SERVICE#GENERAL	NULL	And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?
+1SERVICE#GENERAL	server	A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).
+3FOOD#QUALITY	appetizer	A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).
+3FOOD#QUALITY	food	Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.
+1SERVICE#GENERAL	NULL	Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.
+3AMBIENCE#GENERAL	fit-out	The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)
+3AMBIENCE#GENERAL	furnishings	The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)
+3DRINKS#STYLE_OPTIONS	wine list	The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)
+1SERVICE#GENERAL	NULL	The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)
+1RESTAURANT#PRICES	NULL	At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture.
+1RESTAURANT#GENERAL	NULL	At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture.
+1SERVICE#GENERAL	NULL	At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture.
+1RESTAURANT#GENERAL	NULL	On that scale, it's a world-beater.
+1RESTAURANT#GENERAL	palce	How is this palce still open?
+1RESTAURANT#GENERAL	NULL	I honestly don't even know where to begin.
+3SERVICE#GENERAL	NULL	We arrived and were seated immediately, which made us both happy.
+3RESTAURANT#GENERAL	NULL	Everything was going good until we got our meals.
+1FOOD#QUALITY	meals	Everything was going good until we got our meals.
+1FOOD#STYLE_OPTIONS	chicken	I took one look at the chicken and I was appalled.
+1FOOD#STYLE_OPTIONS	NULL	It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.
+1FOOD#QUALITY	spinach	It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.
+1FOOD#QUALITY	salmon	I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.
+1FOOD#PRICES	salmon	I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.
+1SERVICE#GENERAL	waitress	At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away.
+1FOOD#QUALITY	spinach	So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it.
+1FOOD#STYLE_OPTIONS	NULL	I couldn't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach.
+1FOOD#QUALITY	NULL	So I decide to report back to the waitress because it was completely inedible.
+1SERVICE#GENERAL	NULL	Guess what, I waited for TWENTY minutes before she came over and when she finally did, she says, "oh well, I wish you would have said something earlier" No apology, nothing.
+1SERVICE#GENERAL	NULL	After that she simply took our plates, walked away, came back another TWENTY minutes later with the bill and the chicken on it!!!!!!!!!!!!
+1SERVICE#GENERAL	NULL	No desert menu, no apology, nothing!!!!!!
+1SERVICE#GENERAL	manager	This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it.
+1SERVICE#GENERAL	NULL	Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!
+1SERVICE#GENERAL	NULL	The level of rudeness was preposterous.
+1SERVICE#GENERAL	manager	The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.
+3DRINKS#QUALITY	drinks	The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.
+3FOOD#QUALITY	appetizers	The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.
+1RESTAURANT#GENERAL	NULL	I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE.
+1SERVICE#GENERAL	STAFF	THIS STAFF SHOULD BE FIRED.
+3FOOD#QUALITY	margherita pizza	cirspy crust margherita pizza
+3FOOD#QUALITY	pizza	it was really good pizza.
+3FOOD#QUALITY	crust	the crust was imazingly cooked well and pizza was fully loaded:):):)
+3FOOD#STYLE_OPTIONS	pizza	the crust was imazingly cooked well and pizza was fully loaded:):):)
+3RESTAURANT#GENERAL	NULL	you know what i mean all the positives things happening there made mw write this review.
+1RESTAURANT#GENERAL	Restaurant	Single Worst Restaurant in Manhattan
+3AMBIENCE#GENERAL	decor	I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.
+3FOOD#QUALITY	pita	I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.
+3FOOD#QUALITY	hummus	I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.
+3FOOD#QUALITY	grilled octopus	I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.
+1RESTAURANT#GENERAL	place	If I could give 0 stars I would do so for this place.
+1RESTAURANT#MISCELLANEOUS	NULL	The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.
+1RESTAURANT#GENERAL	NULL	Well...they can run but they can't hide.
+1RESTAURANT#GENERAL	place	This place...god where do i begin.
+3AMBIENCE#GENERAL	scene	It is quite a spectacular scene i'll give them that.
+2AMBIENCE#GENERAL	decor	The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+1FOOD#QUALITY	eggplant	The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+1FOOD#PRICES	eggplant	The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+1SERVICE#GENERAL	NULL	The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+1RESTAURANT#GENERAL	place	How this place survives the competitive west village market in this economy, or any other for that matter, is beyond me.
+3FOOD#QUALITY	Hot Dogs	Great Hot Dogs!
+3FOOD#QUALITY	food	Though it's been crowded most times I've gone here, Bark always delivers on their food.
+2RESTAURANT#MISCELLANEOUS	Bark	Though it's been crowded most times I've gone here, Bark always delivers on their food.
+3FOOD#QUALITY	hot dogs	The hot dogs are top notch, and they're Slamwich is amazing!
+3FOOD#QUALITY	Slamwich	The hot dogs are top notch, and they're Slamwich is amazing!
+3RESTAURANT#GENERAL	Bark	Going to Bark is always worth the train ride, and will make your tongue and belly very happy!
+3FOOD#QUALITY	NULL	Going to Bark is always worth the train ride, and will make your tongue and belly very happy!
+1FOOD#PRICES	menu	Only complaint is the pricing--I believe it would be more reasonable to pay a dollar less on each item listed on the menu.
+3RESTAURANT#GENERAL	spot	But nonetheless--great spot, great food.
+3FOOD#QUALITY	food	But nonetheless--great spot, great food.
+3FOOD#QUALITY	food	Fabulous food - if the front of house staff don't put you off 每 
+1SERVICE#GENERAL	front of house staff	Fabulous food - if the front of house staff don't put you off 每 
+1RESTAURANT#PRICES	NULL	It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years. 
+3SERVICE#GENERAL	waiters	Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. 
+1SERVICE#GENERAL	front of house staff	Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. 
+3FOOD#QUALITY	fish dishes	Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. 
+1RESTAURANT#MISCELLANEOUS	BFC	As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!
+1SERVICE#GENERAL	front of house staff	As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!
+1SERVICE#GENERAL	NULL	As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!
+1SERVICE#GENERAL	girl	The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink. 
+1SERVICE#GENERAL	NULL	I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she "had a BBQ to go to" that night - WTF??
+1SERVICE#GENERAL	staff	I'd be horrified if my staff were turning away customers so early and so rudely!
+1SERVICE#GENERAL	girl	There's another girl who I can't describe, she is about 5'6" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you're *really* talking about. 
+1SERVICE#GENERAL	NULL	I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. 
+1SERVICE#GENERAL	NULL	Again, I'd be super upset if that were my employee.
+1SERVICE#GENERAL	service	Considering you will spend at least $60 a head, I expect better service. 
+1RESTAURANT#PRICES	NULL	Considering you will spend at least $60 a head, I expect better service. 
+1SERVICE#GENERAL	NULL	So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first...
+1SERVICE#GENERAL	Maitre-D	Maitre-D-"Eat and get out"
+3FOOD#QUALITY	food	The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.
+3SERVICE#GENERAL	service	The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.
+1SERVICE#GENERAL	maitre-D	The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.
+3DRINKS#QUALITY	bottle of wine	While finishing our meals which included a high-end bottle of wine, our son's fiance joined us for a glass of wine and dessert.
+1SERVICE#GENERAL	frontman	This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant.
+1SERVICE#GENERAL	NULL	His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.
+1SERVICE#GENERAL	maitre-D	A word to the wise: you can't dine here and disturb the maitre-D's sense of " table turnover", as whacked as it is, or else.
+1SERVICE#GENERAL	NULL	If you go here, do it on his off-night.
+3FOOD#QUALITY	meal	Best meal in a long time!
+3FOOD#QUALITY	Mussles	Mussles and calamari were superb Saturday evening.
+3FOOD#QUALITY	calamari	Mussles and calamari were superb Saturday evening.
+3FOOD#QUALITY	Lamb special	I had the Lamb special which was perfect.
+3FOOD#QUALITY	flank steak	My father had the flank steak which was very good, and my mother had the swordfish.
+3RESTAURANT#GENERAL	The Four Seasons restaurant	The Four Seasons restaurant is a great experience.
+3FOOD#QUALITY	food	The food is great and the environment is even better.
+3AMBIENCE#GENERAL	environment	The food is great and the environment is even better.
+3RESTAURANT#GENERAL	NULL	Everyone must come here at least once.
+3RESTAURANT#GENERAL	NULL	Highly recommend it!
+3FOOD#QUALITY	Hot Dogs	Taking Hot Dogs to the next level
+1RESTAURANT#PRICES	Bark	At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog.
+3FOOD#QUALITY	hot dog	At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog.
+3FOOD#QUALITY	hot dog	Here the hot dog is elevated to the level of a real entree with numerous variations available.
+3FOOD#STYLE_OPTIONS	hot dog	Here the hot dog is elevated to the level of a real entree with numerous variations available.
+3AMBIENCE#GENERAL	Atmosphere	Great Atmosphere
+3FOOD#QUALITY	fish tacos	I highly recommend the fish tacos, everything else was ok.
+2FOOD#QUALITY	NULL	I highly recommend the fish tacos, everything else was ok.
+3AMBIENCE#GENERAL	atmosphere	Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.
+3AMBIENCE#GENERAL	fire place	Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.
+1AMBIENCE#GENERAL	NULL	Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.
+1SERVICE#GENERAL	service	Poor service and management
+1SERVICE#GENERAL	management	Poor service and management
+1RESTAURANT#GENERAL	place	Don＊t go to this place!
+1RESTAURANT#GENERAL	Casa la Femme	Had an awful experience at Casa la Femme on a Saturday dinner.
+1SERVICE#GENERAL	NULL	Appetizers took nearly an hour.
+1SERVICE#GENERAL	NULL	When the main course finally arrived (another 45mins) half of our order was missing.
+1SERVICE#GENERAL	NULL	Never got an explanation as to what was going on.
+1SERVICE#GENERAL	manager	The manager was rude and handled the situation extremely poorly.
+1SERVICE#GENERAL	NULL	When we threatened to leave, we were offered a meager discount even though half the order was missing.
+1SERVICE#GENERAL	NULL	On the way out, we heard of other guests complaining about similar issues.
+1RESTAURANT#PRICES	restaurant	Can＊t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+1SERVICE#GENERAL	NULL	Can＊t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+1RESTAURANT#GENERAL	NULL	What a hassle!
+2FOOD#QUALITY	food	The food is very good, but not outstanding.
+1SERVICE#GENERAL	staff	There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.
+1FOOD#QUALITY	NULL	There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.
+1SERVICE#GENERAL	wait	There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.
+1SERVICE#GENERAL	NULL	On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table.
+1SERVICE#GENERAL	staff	Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff.
+1RESTAURANT#PRICES	NULL	Expensive
+1FOOD#QUALITY	bread	The bread was stale, the salad was overpriced and empty.
+1FOOD#PRICES	salad	The bread was stale, the salad was overpriced and empty.
+1FOOD#STYLE_OPTIONS	salad	The bread was stale, the salad was overpriced and empty.
+3FOOD#QUALITY	pasta	The pasta was well cooked, didn't have enough sauce though or flavor.
+1FOOD#QUALITY	pasta	The pasta was well cooked, didn't have enough sauce though or flavor.
+1FOOD#STYLE_OPTIONS	pasta	The pasta was well cooked, didn't have enough sauce though or flavor.
+1SERVICE#GENERAL	NULL	So rude!!!
+1RESTAURANT#GENERAL	NULL	I was one of the people that went for this horrible experience.
+1SERVICE#GENERAL	hostess	The hostess was rude and I got a distinct feeling that they did not want to serve us.
+1SERVICE#GENERAL	NULL	The hostess was rude and I got a distinct feeling that they did not want to serve us.
+1SERVICE#GENERAL	bartender	The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.
+1SERVICE#GENERAL	waitress	I asked for a menu and the same waitress looked at my like I was insane.
+1SERVICE#GENERAL	waitress	I was shocked that my friends wanted to stay after the waitress said, "can I help you" and "how many are in your party."
+1SERVICE#GENERAL	NULL	The three of us standing in front of her should have been an indication of how many of us there were.
+1RESTAURANT#MISCELLANEOUS	NULL	We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.
+1SERVICE#GENERAL	staff	Shame on this place for the horrible rude staff and non-existent customer service.
+1SERVICE#GENERAL	customer service	Shame on this place for the horrible rude staff and non-existent customer service.
+1SERVICE#GENERAL	staff	bad staff
+3RESTAURANT#GENERAL	place	I generally like this place.
+3FOOD#QUALITY	food	The food is good.
+3AMBIENCE#GENERAL	space	The design of the space is good.
+1SERVICE#GENERAL	service	But the service is HORRID!
+1SERVICE#GENERAL	waitress	I was there for brunch recently, and we were tag teamed by a waitress and a waiter.
+1SERVICE#GENERAL	waiter	I was there for brunch recently, and we were tag teamed by a waitress and a waiter.
+1SERVICE#GENERAL	waiter	The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.
+1SERVICE#GENERAL	NULL	I can't believe that it was, but please put the bag down before delivering food!
+1SERVICE#GENERAL	waitress	The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it).
+1SERVICE#GENERAL	NULL	I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table.
+1SERVICE#GENERAL	NULL	She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables.
+1RESTAURANT#GENERAL	place	I wish I could like this place more, and I wish someone would retrain the staff.
+1SERVICE#GENERAL	staff	I wish I could like this place more, and I wish someone would retrain the staff.

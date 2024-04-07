@@ -1,0 +1,1689 @@
+labels,key_words,review
+RESTAURANT,3 place,I recommend this place to everyone.
+GENERAL,3 place,I recommend this place to everyone.
+FOOD,3 food,Great food.
+QUALITY,3 food,Great food.
+RESTAURANT,3 NEG,One of my favorite places in Brooklyn. 
+GENERAL,3 NEG,One of my favorite places in Brooklyn. 
+FOOD,3 pastas,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing."
+QUALITY,3 pastas,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing."
+FOOD,3 risottos,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing."
+QUALITY,3 risottos,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing."
+FOOD,3 sepia,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing."
+QUALITY,3 sepia,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing."
+FOOD,3 braised rabbit,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing."
+QUALITY,3 braised rabbit,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing."
+FOOD,1 NEG,Overpriced and not tasty 
+PRICES,1 NEG,Overpriced and not tasty 
+FOOD,1 NEG,Overpriced and not tasty 
+QUALITY,1 NEG,Overpriced and not tasty 
+FOOD,1 food,The food here was mediocre at best. 
+QUALITY,1 food,The food here was mediocre at best. 
+FOOD,1 NEG,It was totally overpriced- fish and chips was about $15.... 
+PRICES,1 NEG,It was totally overpriced- fish and chips was about $15.... 
+FOOD,1 fish and chips,It was totally overpriced- fish and chips was about $15.... 
+PRICES,1 fish and chips,It was totally overpriced- fish and chips was about $15.... 
+FOOD,3 Dog,Tasty Dog!
+QUALITY,3 Dog,Tasty Dog!
+FOOD,3 dog,"An awesome organic dog, and a conscious eco friendly establishment."
+QUALITY,3 dog,"An awesome organic dog, and a conscious eco friendly establishment."
+RESTAURANT,3 establishment,"An awesome organic dog, and a conscious eco friendly establishment."
+MISCELLANEOUS,3 establishment,"An awesome organic dog, and a conscious eco friendly establishment."
+FOOD,3 NEG,One of the best hot dogs I have ever eaten.
+QUALITY,3 NEG,One of the best hot dogs I have ever eaten.
+RESTAURANT,3 NEG,Can't wait to go back.
+GENERAL,3 NEG,Can't wait to go back.
+RESTAURANT,3 Cypriot restaurant,The Cypriot restaurant has a lot going for it.
+GENERAL,3 Cypriot restaurant,The Cypriot restaurant has a lot going for it.
+FOOD,3 pork souvlaki,But the best pork souvlaki I ever had is the main thing.
+QUALITY,3 pork souvlaki,But the best pork souvlaki I ever had is the main thing.
+RESTAURANT,3 NEG,Run don't walk.
+GENERAL,3 NEG,Run don't walk.
+FOOD,3 Pizza,Super YUMMY Pizza!
+QUALITY,3 Pizza,Super YUMMY Pizza!
+AMBIENCE,3 restaurant,I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+GENERAL,3 restaurant,I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+FOOD,3 eggplant pizza,"I LOOOVE their eggplant pizza, as well as their pastas!"
+QUALITY,3 eggplant pizza,"I LOOOVE their eggplant pizza, as well as their pastas!"
+FOOD,3 pastas,"I LOOOVE their eggplant pizza, as well as their pastas!"
+QUALITY,3 pastas,"I LOOOVE their eggplant pizza, as well as their pastas!"
+FOOD,3 half/half pizza,"We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!"
+STYLE_OPTIONS,3 half/half pizza,"We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!"
+RESTAURANT,3 NEG,"We had fun eating in there, we were there like around 3 a.m. in the morning!"
+GENERAL,3 NEG,"We had fun eating in there, we were there like around 3 a.m. in the morning!"
+RESTAURANT,3 NEG,"Will comeback for sure, wish they have it here in LA.."
+GENERAL,3 NEG,"Will comeback for sure, wish they have it here in LA.."
+FOOD,3 food,"Excellent food, although the interior could use some help."
+QUALITY,3 food,"Excellent food, although the interior could use some help."
+AMBIENCE,1 interior,"Excellent food, although the interior could use some help."
+GENERAL,1 interior,"Excellent food, although the interior could use some help."
+AMBIENCE,1 space,"The space kind of feels like an Alice in Wonderland setting, without it trying to be that."
+GENERAL,1 space,"The space kind of feels like an Alice in Wonderland setting, without it trying to be that."
+FOOD,3 meal,"I paid just about $60 for a good meal, though :)"
+QUALITY,3 meal,"I paid just about $60 for a good meal, though :)"
+FOOD,3 meal,"I paid just about $60 for a good meal, though :)"
+PRICES,3 meal,"I paid just about $60 for a good meal, though :)"
+DRINKS,3 sake,Great sake!
+QUALITY,3 sake,Great sake!
+FOOD,3 Sushi,"Reliable, Fresh Sushi"
+QUALITY,3 Sushi,"Reliable, Fresh Sushi"
+FOOD,3 sashimi,The sashimi is always fresh and the rolls are innovative and delicious.
+QUALITY,3 sashimi,The sashimi is always fresh and the rolls are innovative and delicious.
+FOOD,3 rolls,The sashimi is always fresh and the rolls are innovative and delicious.
+STYLE_OPTIONS,3 rolls,The sashimi is always fresh and the rolls are innovative and delicious.
+FOOD,3 rolls,The sashimi is always fresh and the rolls are innovative and delicious.
+QUALITY,3 rolls,The sashimi is always fresh and the rolls are innovative and delicious.
+SERVICE,3 service,Have never had a problem with service save a missing rice once.
+GENERAL,3 service,Have never had a problem with service save a missing rice once.
+SERVICE,1 Delivery,Delivery can be spot on or lacking depending on the weather and the day of the week.
+GENERAL,1 Delivery,Delivery can be spot on or lacking depending on the weather and the day of the week.
+SERVICE,1 Delivery guy,Delivery guy sometimes get upset if you don't tip more than 10%.
+GENERAL,1 Delivery guy,Delivery guy sometimes get upset if you don't tip more than 10%.
+FOOD,3 Sushi,Best. Sushi. Ever.
+QUALITY,3 Sushi,Best. Sushi. Ever.
+FOOD,3 sushi,This place has ruined me for neighborhood sushi.
+QUALITY,3 sushi,This place has ruined me for neighborhood sushi.
+FOOD,3 NEG,"Creative, consistent, fresh."
+QUALITY,3 NEG,"Creative, consistent, fresh."
+FOOD,3 NEG,"Creative, consistent, fresh."
+STYLE_OPTIONS,3 NEG,"Creative, consistent, fresh."
+FOOD,3 sashimi,"Excellent sashimi, and the millennium roll is beyond delicious."
+QUALITY,3 sashimi,"Excellent sashimi, and the millennium roll is beyond delicious."
+FOOD,3 millennium roll,"Excellent sashimi, and the millennium roll is beyond delicious."
+QUALITY,3 millennium roll,"Excellent sashimi, and the millennium roll is beyond delicious."
+FOOD,1 NEG,Not cheap but very yummy.
+PRICES,1 NEG,Not cheap but very yummy.
+FOOD,3 NEG,Not cheap but very yummy.
+QUALITY,3 NEG,Not cheap but very yummy.
+RESTAURANT,3 NEG,Love it.
+GENERAL,3 NEG,Love it.
+RESTAURANT,3 NEG,"Very, very nice"
+GENERAL,3 NEG,"Very, very nice"
+LOCATION,2 place,"The place is a bit hidden away, but once you get there, it's all worth it."
+GENERAL,2 place,"The place is a bit hidden away, but once you get there, it's all worth it."
+RESTAURANT,3 place,"The place is a bit hidden away, but once you get there, it's all worth it."
+GENERAL,3 place,"The place is a bit hidden away, but once you get there, it's all worth it."
+FOOD,3 food,not only is the food
+QUALITY,3 food,not only is the food
+RESTAURANT,3 NEG,not only is the food
+GENERAL,3 NEG,not only is the food
+RESTAURANT,3 NEG,Loved It
+GENERAL,3 NEG,Loved It
+RESTAURANT,3 NEG,We had a very nice time.
+GENERAL,3 NEG,We had a very nice time.
+SERVICE,3 waiter,"The waiter was attentive, the food was delicious and the views of the city were great."
+GENERAL,3 waiter,"The waiter was attentive, the food was delicious and the views of the city were great."
+FOOD,3 food,"The waiter was attentive, the food was delicious and the views of the city were great."
+QUALITY,3 food,"The waiter was attentive, the food was delicious and the views of the city were great."
+LOCATION,3 views of the city,"The waiter was attentive, the food was delicious and the views of the city were great."
+GENERAL,3 views of the city,"The waiter was attentive, the food was delicious and the views of the city were great."
+RESTAURANT,3 NEG,I'd definitely go back again.
+GENERAL,3 NEG,I'd definitely go back again.
+AMBIENCE,3 place,Great place to relax and enjoy your dinner
+GENERAL,3 place,Great place to relax and enjoy your dinner
+AMBIENCE,3 atmosphere,There is something about their atmosphere that makes me come back nearly every week.
+GENERAL,3 atmosphere,There is something about their atmosphere that makes me come back nearly every week.
+RESTAURANT,3 Place,"Place is open till late, no dress code."
+MISCELLANEOUS,3 Place,"Place is open till late, no dress code."
+FOOD,3 food,Good food: my favorite is the seafood spaghetti.
+QUALITY,3 food,Good food: my favorite is the seafood spaghetti.
+FOOD,3 seafood spaghetti,Good food: my favorite is the seafood spaghetti.
+QUALITY,3 seafood spaghetti,Good food: my favorite is the seafood spaghetti.
+RESTAURANT,3 NEG,Highly recommended!
+GENERAL,3 NEG,Highly recommended!
+FOOD,3 food,Excellent food for great prices
+QUALITY,3 food,Excellent food for great prices
+FOOD,3 food,Excellent food for great prices
+PRICES,3 food,Excellent food for great prices
+RESTAURANT,3 NEG,My husband and I have been sold on this from the first visit.
+GENERAL,3 NEG,My husband and I have been sold on this from the first visit.
+SERVICE,3 wait staff,The wait staff is very courteous and accomodating.
+GENERAL,3 wait staff,The wait staff is very courteous and accomodating.
+AMBIENCE,2 space,"The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food."
+GENERAL,2 space,"The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food."
+RESTAURANT,1 space,"The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food."
+MISCELLANEOUS,1 space,"The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food."
+FOOD,3 indo-chinese food,"The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food."
+QUALITY,3 indo-chinese food,"The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food."
+RESTAURANT,3 NEG,There are no negatives to speak of.
+GENERAL,3 NEG,There are no negatives to speak of.
+RESTAURANT,3 NEG,the bestt!
+GENERAL,3 NEG,the bestt!
+RESTAURANT,3 place,my favorite place lol
+GENERAL,3 place,my favorite place lol
+FOOD,3 chicken pasta,i love their chicken pasta cant remember the name but is sooo good
+QUALITY,3 chicken pasta,i love their chicken pasta cant remember the name but is sooo good
+RESTAURANT,2 NEG,its alright
+GENERAL,2 NEG,its alright
+RESTAURANT,3 place,"im not necessarily fanatical about this place, but it was a fun time for low pirces."
+GENERAL,3 place,"im not necessarily fanatical about this place, but it was a fun time for low pirces."
+RESTAURANT,3 place,"im not necessarily fanatical about this place, but it was a fun time for low pirces."
+PRICES,3 place,"im not necessarily fanatical about this place, but it was a fun time for low pirces."
+FOOD,2 lobster,"lobster was good, nothing spectacular."
+QUALITY,2 lobster,"lobster was good, nothing spectacular."
+RESTAURANT,2 restaraunt,"its just a fun place to go, not a five star restaraunt."
+GENERAL,2 restaraunt,"its just a fun place to go, not a five star restaraunt."
+RESTAURANT,1 NEG,Way below average
+GENERAL,1 NEG,Way below average
+FOOD,1 pizza,I think the pizza is so overrated and was under cooked.
+QUALITY,1 pizza,I think the pizza is so overrated and was under cooked.
+SERVICE,1 staff,Had no flavor and the staff is rude and not attentive.
+GENERAL,1 staff,Had no flavor and the staff is rude and not attentive.
+FOOD,1 NEG,Had no flavor and the staff is rude and not attentive.
+QUALITY,1 NEG,Had no flavor and the staff is rude and not attentive.
+RESTAURANT,1 NEG,Would NEVER go back
+GENERAL,1 NEG,Would NEVER go back
+RESTAURANT,3 place,I love this place
+GENERAL,3 place,I love this place
+FOOD,3 NEG,I wasn't here for the pizza so I can't comment on that yet but what I had was very good.
+QUALITY,3 NEG,I wasn't here for the pizza so I can't comment on that yet but what I had was very good.
+SERVICE,3 service,The service was quick and friendly.
+GENERAL,3 service,The service was quick and friendly.
+SERVICE,3 NEG,Everyone was smiling so that made me feel welcome.
+GENERAL,3 NEG,Everyone was smiling so that made me feel welcome.
+RESTAURANT,3 restaurant,I thought the restaurant was nice and clean.
+GENERAL,3 restaurant,I thought the restaurant was nice and clean.
+AMBIENCE,3 restaurant,I thought the restaurant was nice and clean.
+GENERAL,3 restaurant,I thought the restaurant was nice and clean.
+FOOD,3 vitello alla marsala,I ordered the vitello alla marsala and I was pretty impressed.
+QUALITY,3 vitello alla marsala,I ordered the vitello alla marsala and I was pretty impressed.
+FOOD,3 veal,The veal and the mushrooms were cooked perfectly.
+QUALITY,3 veal,The veal and the mushrooms were cooked perfectly.
+FOOD,3 mushrooms,The veal and the mushrooms were cooked perfectly.
+QUALITY,3 mushrooms,The veal and the mushrooms were cooked perfectly.
+FOOD,3 potato balls,The potato balls were not dry at all... in fact it was buttery.
+QUALITY,3 potato balls,The potato balls were not dry at all... in fact it was buttery.
+RESTAURANT,1 NEG,The only downside... they only take cash which is OK if you know about it ahead of time.
+MISCELLANEOUS,1 NEG,The only downside... they only take cash which is OK if you know about it ahead of time.
+RESTAURANT,3 NEG,I'll be back for sure.
+GENERAL,3 NEG,I'll be back for sure.
+RESTAURANT,1 PLACE,WORST PLACE ON SMITH STREET IN BROOKLYN
+GENERAL,1 PLACE,WORST PLACE ON SMITH STREET IN BROOKLYN
+SERVICE,1 bartender,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers."
+GENERAL,1 bartender,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers."
+SERVICE,1 service,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers."
+GENERAL,1 service,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers."
+FOOD,1 food,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers."
+QUALITY,1 food,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers."
+SERVICE,1 waitresses,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers."
+GENERAL,1 waitresses,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers."
+RESTAURANT,1 place,I would never recommend this place to anybody even for a casual dinner.
+GENERAL,1 place,I would never recommend this place to anybody even for a casual dinner.
+RESTAURANT,1 place,I would never recommend this place to anybody even for a casual dinner.
+MISCELLANEOUS,1 place,I would never recommend this place to anybody even for a casual dinner.
+RESTAURANT,3 NEG,awesome
+GENERAL,3 NEG,awesome
+FOOD,3 food,the food is always fresh ...
+QUALITY,3 food,the food is always fresh ...
+FOOD,1 japanese food,overpriced japanese food with mediocre service
+PRICES,1 japanese food,overpriced japanese food with mediocre service
+SERVICE,2 service,overpriced japanese food with mediocre service
+GENERAL,2 service,overpriced japanese food with mediocre service
+RESTAURANT,1 NEG,Went here on sat 1/26 and was disappointed.
+GENERAL,1 NEG,Went here on sat 1/26 and was disappointed.
+FOOD,1 Chicken teriyaki,Chicken teriyaki had tomato or pimentos on top??
+STYLE_OPTIONS,1 Chicken teriyaki,Chicken teriyaki had tomato or pimentos on top??
+FOOD,1 food,food was luke warm.
+QUALITY,1 food,food was luke warm.
+SERVICE,1 waitress,The waitress was not attentive at all.
+GENERAL,1 waitress,The waitress was not attentive at all.
+FOOD,1 dessert,I was looking for banana tempura for dessert and they dont have.
+STYLE_OPTIONS,1 dessert,I was looking for banana tempura for dessert and they dont have.
+RESTAURANT,1 The Four Seasons,"Not because you are ""The Four Seasons""... – you are allowed to charge an arm and a leg for a romatic dinner."
+PRICES,1 The Four Seasons,"Not because you are ""The Four Seasons""... – you are allowed to charge an arm and a leg for a romatic dinner."
+FOOD,3 food,"The food was excellent as well as service, however, I left The Four Seasons very dissappointed."
+QUALITY,3 food,"The food was excellent as well as service, however, I left The Four Seasons very dissappointed."
+SERVICE,3 service,"The food was excellent as well as service, however, I left The Four Seasons very dissappointed."
+GENERAL,3 service,"The food was excellent as well as service, however, I left The Four Seasons very dissappointed."
+RESTAURANT,1 The Four Seasons,"The food was excellent as well as service, however, I left The Four Seasons very dissappointed."
+GENERAL,1 The Four Seasons,"The food was excellent as well as service, however, I left The Four Seasons very dissappointed."
+FOOD,1 dinner,I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.
+PRICES,1 dinner,I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.
+FOOD,3 Red Dragon Roll,"Red Dragon Roll - my favorite thing to eat, of any food group - hands down"
+QUALITY,3 Red Dragon Roll,"Red Dragon Roll - my favorite thing to eat, of any food group - hands down"
+RESTAURANT,3 Yamato,Just go to Yamato and order the Red Dragon Roll.
+GENERAL,3 Yamato,Just go to Yamato and order the Red Dragon Roll.
+FOOD,3 Red Dragon Roll,Just go to Yamato and order the Red Dragon Roll.
+QUALITY,3 Red Dragon Roll,Just go to Yamato and order the Red Dragon Roll.
+FOOD,3 NEG,"If you don't like it, I don't know what to tell you."
+QUALITY,3 NEG,"If you don't like it, I don't know what to tell you."
+FOOD,3 Seafood Dynamite,The Seafood Dynamite is also otherworldly.
+QUALITY,3 Seafood Dynamite,The Seafood Dynamite is also otherworldly.
+FOOD,3 NEG,I'm not even going to bother to describe it; it speaks for itself.
+QUALITY,3 NEG,I'm not even going to bother to describe it; it speaks for itself.
+FOOD,3 Sushi,Favorite Sushi in NYC
+QUALITY,3 Sushi,Favorite Sushi in NYC
+AMBIENCE,3 spot,"An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming."
+GENERAL,3 spot,"An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming."
+FOOD,3 sushi,"An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming."
+QUALITY,3 sushi,"An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming."
+SERVICE,3 service,"An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming."
+GENERAL,3 service,"An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming."
+AMBIENCE,3 back garden area,"In the summer months, the back garden area is really nice."
+GENERAL,3 back garden area,"In the summer months, the back garden area is really nice."
+FOOD,3 rolls,The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+STYLE_OPTIONS,3 rolls,The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+FOOD,3 japanese food,The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+STYLE_OPTIONS,3 japanese food,The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+FOOD,3 japanese food,The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+QUALITY,3 japanese food,The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+FOOD,"3 Dancing, White River and Millenium rolls","The Dancing, White River and Millenium rolls are musts."
+QUALITY,"3 Dancing, White River and Millenium rolls","The Dancing, White River and Millenium rolls are musts."
+RESTAURANT,3 NEG,SO GOOD
+GENERAL,3 NEG,SO GOOD
+RESTAURANT,3 PLACE,I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE ...)
+GENERAL,3 PLACE,I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE ...)
+FOOD,1 food,Gross food – Wow-
+QUALITY,1 food,Gross food – Wow-
+FOOD,1 food,I can't remember the last time I had such gross food in New York.
+QUALITY,1 food,I can't remember the last time I had such gross food in New York.
+FOOD,1 quesadilla,My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+QUALITY,1 quesadilla,My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+FOOD,1 quesadilla,My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+STYLE_OPTIONS,1 quesadilla,My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+FOOD,1 guacamole,And $11 for a plate of bland guacamole?
+QUALITY,1 guacamole,And $11 for a plate of bland guacamole?
+FOOD,1 guacamole,And $11 for a plate of bland guacamole?
+PRICES,1 guacamole,And $11 for a plate of bland guacamole?
+DRINKS,1 margaritas,"Don't get me started on the margaritas, either."
+QUALITY,1 margaritas,"Don't get me started on the margaritas, either."
+DRINKS,1 NEG,Mine tasted like the bartender had forgotten to add the tequila.
+QUALITY,1 NEG,Mine tasted like the bartender had forgotten to add the tequila.
+RESTAURANT,1 NEG,Save your money and your time and go somewhere else.
+GENERAL,1 NEG,Save your money and your time and go somewhere else.
+RESTAURANT,1 place,"Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word."
+GENERAL,1 place,"Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word."
+FOOD,3 Indian Food,Great Indian Food!
+QUALITY,3 Indian Food,Great Indian Food!
+SERVICE,3 NEG,When I got there the place was packed but they made sure to seat me quickly.
+GENERAL,3 NEG,When I got there the place was packed but they made sure to seat me quickly.
+FOOD,3 food,"The food was good, the place was clean and affordable."
+QUALITY,3 food,"The food was good, the place was clean and affordable."
+AMBIENCE,3 place,"The food was good, the place was clean and affordable."
+GENERAL,3 place,"The food was good, the place was clean and affordable."
+RESTAURANT,3 place,"The food was good, the place was clean and affordable."
+PRICES,3 place,"The food was good, the place was clean and affordable."
+RESTAURANT,3 indian place,I noticed alot of indian people eatting there which is a great sign for an indian place!
+MISCELLANEOUS,3 indian place,I noticed alot of indian people eatting there which is a great sign for an indian place!
+RESTAURANT,3 NEG,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized ."
+GENERAL,3 NEG,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized ."
+AMBIENCE,3 NEG,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized ."
+GENERAL,3 NEG,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized ."
+FOOD,3 food,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized ."
+QUALITY,3 food,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized ."
+RESTAURANT,3 NEG,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized ."
+MISCELLANEOUS,3 NEG,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized ."
+SERVICE,3 staff,The staff is very good.
+GENERAL,3 staff,The staff is very good.
+DRINKS,3 drink menu,Love their drink menu.
+STYLE_OPTIONS,3 drink menu,Love their drink menu.
+AMBIENCE,3 place,I highly recommend this beautiful place.
+GENERAL,3 place,I highly recommend this beautiful place.
+RESTAURANT,3 place,I highly recommend this beautiful place.
+GENERAL,3 place,I highly recommend this beautiful place.
+RESTAURANT,3 NEG,Nice for one time special occasion.
+MISCELLANEOUS,3 NEG,Nice for one time special occasion.
+SERVICE,3 NEG,They honored reservation on Sunday afternoon very well. 
+GENERAL,3 NEG,They honored reservation on Sunday afternoon very well. 
+DRINKS,1 Voss bottles of water,We were offered water for the table but were not told the Voss bottles of water were $8 a piece.
+PRICES,1 Voss bottles of water,We were offered water for the table but were not told the Voss bottles of water were $8 a piece.
+FOOD,2 Food,Food was OK.
+QUALITY,2 Food,Food was OK.
+LOCATION,3 view of river and NYC,Nice view of river and NYC.
+GENERAL,3 view of river and NYC,Nice view of river and NYC.
+RESTAURANT,3 NEG,I come here enjoy very much with husband.
+GENERAL,3 NEG,I come here enjoy very much with husband.
+RESTAURANT,3 NEG,Remind me of home.
+MISCELLANEOUS,3 NEG,Remind me of home.
+SERVICE,3 survice,Great survice
+GENERAL,3 survice,Great survice
+FOOD,3 NEG,MMMMMMMMMmmmmmm so delicious
+QUALITY,3 NEG,MMMMMMMMMmmmmmm so delicious
+AMBIENCE,3 Egyptian restaurant,A beautifully designed dreamy Egyptian restaurant that gets sceney at night.
+GENERAL,3 Egyptian restaurant,A beautifully designed dreamy Egyptian restaurant that gets sceney at night.
+FOOD,3 baba ganoush,Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+QUALITY,3 baba ganoush,Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+AMBIENCE,3 belly dancers,Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+GENERAL,3 belly dancers,Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+AMBIENCE,3 hookah,"Oh, and there's hookah."
+GENERAL,3 hookah,"Oh, and there's hookah."
+SERVICE,3 Raymond,Raymond the bartender rocks!
+GENERAL,3 Raymond,Raymond the bartender rocks!
+RESTAURANT,3 Pacifico,Pacifico is a great place to casually hang out.
+MISCELLANEOUS,3 Pacifico,Pacifico is a great place to casually hang out.
+DRINKS,3 drinks,"The drinks are great, especially when made by Raymond."
+QUALITY,3 drinks,"The drinks are great, especially when made by Raymond."
+SERVICE,3 Raymond,"The drinks are great, especially when made by Raymond."
+GENERAL,3 Raymond,"The drinks are great, especially when made by Raymond."
+FOOD,3 omlette for brunch,The omlette for brunch is great...
+QUALITY,3 omlette for brunch,The omlette for brunch is great...
+FOOD,3 spinach,"the spinach is fresh, definately not frozen..."
+QUALITY,3 spinach,"the spinach is fresh, definately not frozen..."
+FOOD,3 quacamole,"quacamole at pacifico is yummy, as are the wings with chimmichuri."
+QUALITY,3 quacamole,"quacamole at pacifico is yummy, as are the wings with chimmichuri."
+FOOD,3 wings with chimmichuri,"quacamole at pacifico is yummy, as are the wings with chimmichuri."
+QUALITY,3 wings with chimmichuri,"quacamole at pacifico is yummy, as are the wings with chimmichuri."
+FOOD,1 chicken in the salads,A weakness is the chicken in the salads.
+QUALITY,1 chicken in the salads,A weakness is the chicken in the salads.
+FOOD,1 NEG,"It's just average, just shredded, no seasoning on it."
+QUALITY,1 NEG,"It's just average, just shredded, no seasoning on it."
+FOOD,1 portobello and asparagus mole,"Also, I personally wasn't a fan of the portobello and asparagus mole."
+QUALITY,1 portobello and asparagus mole,"Also, I personally wasn't a fan of the portobello and asparagus mole."
+FOOD,2 food,"Overall, decent food at a good price, with friendly people."
+QUALITY,2 food,"Overall, decent food at a good price, with friendly people."
+FOOD,3 food,"Overall, decent food at a good price, with friendly people."
+PRICES,3 food,"Overall, decent food at a good price, with friendly people."
+SERVICE,3 people,"Overall, decent food at a good price, with friendly people."
+GENERAL,3 people,"Overall, decent food at a good price, with friendly people."
+RESTAURANT,3 Indian Restaurant,Best Indian Restaurant in the City
+GENERAL,3 Indian Restaurant,Best Indian Restaurant in the City
+AMBIENCE,1 Decor,Decor needs to be upgraded but the food is amazing!
+GENERAL,1 Decor,Decor needs to be upgraded but the food is amazing!
+FOOD,3 food,Decor needs to be upgraded but the food is amazing!
+QUALITY,3 food,Decor needs to be upgraded but the food is amazing!
+FOOD,3 gyros,This small Astoria souvlaki spot makes what many consider the best gyros in New York.
+QUALITY,3 gyros,This small Astoria souvlaki spot makes what many consider the best gyros in New York.
+FOOD,3 food,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected."
+QUALITY,3 food,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected."
+FOOD,3 gyro meat,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected."
+QUALITY,3 gyro meat,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected."
+FOOD,3 sausages,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected."
+QUALITY,3 sausages,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected."
+FOOD,3 ingredients,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected."
+QUALITY,3 ingredients,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected."
+FOOD,3 Greek and Cypriot dishes,"All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted."
+QUALITY,3 Greek and Cypriot dishes,"All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted."
+FOOD,3 gyro,"All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted."
+QUALITY,3 gyro,"All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted."
+RESTAURANT,3 restaurant,Best restaurant in Brooklyn
+GENERAL,3 restaurant,Best restaurant in Brooklyn
+RESTAURANT,3 NEG,The best!
+GENERAL,3 NEG,The best!
+FOOD,3 food,"Great food, amazing service, this place is a class act."
+QUALITY,3 food,"Great food, amazing service, this place is a class act."
+SERVICE,3 service,"Great food, amazing service, this place is a class act."
+GENERAL,3 service,"Great food, amazing service, this place is a class act."
+RESTAURANT,3 place,"Great food, amazing service, this place is a class act."
+GENERAL,3 place,"Great food, amazing service, this place is a class act."
+FOOD,3 veal,The veal was incredible last night.
+QUALITY,3 veal,The veal was incredible last night.
+FOOD,3 NEG,"Fresh, mind blowing flavors."
+QUALITY,3 NEG,"Fresh, mind blowing flavors."
+RESTAURANT,3 place,This place is a must visit!
+GENERAL,3 place,This place is a must visit!
+FOOD,3 NEG,"Delicious, creative and fun."
+QUALITY,3 NEG,"Delicious, creative and fun."
+FOOD,3 NEG,"Delicious, creative and fun."
+STYLE_OPTIONS,3 NEG,"Delicious, creative and fun."
+RESTAURANT,3 NEG,Got a date? Go here!
+MISCELLANEOUS,3 NEG,Got a date? Go here!
+RESTAURANT,3 NEG,Every time I have a special occasion with my boyfriend I have a hard time going anywhere else.
+MISCELLANEOUS,3 NEG,Every time I have a special occasion with my boyfriend I have a hard time going anywhere else.
+AMBIENCE,3 NEG,It is so romantic.
+GENERAL,3 NEG,It is so romantic.
+AMBIENCE,3 NEG,"Its dark, and cozy.. there is always jazz music playing when we go."
+GENERAL,3 NEG,"Its dark, and cozy.. there is always jazz music playing when we go."
+AMBIENCE,3 booths,Most of the booths allow you to sit next to eachother without looking like 'that' couple.
+GENERAL,3 booths,Most of the booths allow you to sit next to eachother without looking like 'that' couple.
+FOOD,3 food,The food is all shared so we get to order together and eat together.
+STYLE_OPTIONS,3 food,The food is all shared so we get to order together and eat together.
+FOOD,3 dishes,I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+QUALITY,3 dishes,I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+FOOD,1 dish,I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+QUALITY,1 dish,I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+RESTAURANT,3 NEG,Once you try it for a special occasion beware.. you can't stop!
+MISCELLANEOUS,3 NEG,Once you try it for a special occasion beware.. you can't stop!
+RESTAURANT,3 NEG,"You'll be ther for every anniversary, birthday, valentines day..."
+MISCELLANEOUS,3 NEG,"You'll be ther for every anniversary, birthday, valentines day..."
+RESTAURANT,3 NEG,For a Fabulous Wedding!
+MISCELLANEOUS,3 NEG,For a Fabulous Wedding!
+RESTAURANT,3 Water's Edge,My daughter's wedding reception at Water's Edge received the highest compliments from our guests.
+MISCELLANEOUS,3 Water's Edge,My daughter's wedding reception at Water's Edge received the highest compliments from our guests.
+AMBIENCE,3 atmosphere,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+GENERAL,3 atmosphere,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+AMBIENCE,3 rooms,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+GENERAL,3 rooms,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+LOCATION,3 views,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+GENERAL,3 views,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+FOOD,3 food,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+QUALITY,3 food,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+SERVICE,3 Service,Service was wonderful;
+GENERAL,3 Service,Service was wonderful;
+SERVICE,3 NEG,everyone was cheerfully cooperative and helpful.
+GENERAL,3 NEG,everyone was cheerfully cooperative and helpful.
+SERVICE,3 Paul,"Paul, the maitre d', was totally professional and always on top of things."
+GENERAL,3 Paul,"Paul, the maitre d', was totally professional and always on top of things."
+RESTAURANT,3 Water's Edge,Thank you everyone at Water's Edge.
+GENERAL,3 Water's Edge,Thank you everyone at Water's Edge.
+RESTAURANT,1 NEG,would NOT go back.
+GENERAL,1 NEG,would NOT go back.
+SERVICE,1 Service,"Service ok but unfriendly,filthy bathroom."
+GENERAL,1 Service,"Service ok but unfriendly,filthy bathroom."
+AMBIENCE,1 bathroom,"Service ok but unfriendly,filthy bathroom."
+GENERAL,1 bathroom,"Service ok but unfriendly,filthy bathroom."
+LOCATION,2 view,The high prices you're going to pay is for the view not for the food.
+GENERAL,2 view,The high prices you're going to pay is for the view not for the food.
+FOOD,1 food,The high prices you're going to pay is for the view not for the food.
+QUALITY,1 food,The high prices you're going to pay is for the view not for the food.
+RESTAURANT,1 NEG,The high prices you're going to pay is for the view not for the food.
+PRICES,1 NEG,The high prices you're going to pay is for the view not for the food.
+DRINKS,1 bar drinks,"The bar drinks were Eh, ok to say the least."
+QUALITY,1 bar drinks,"The bar drinks were Eh, ok to say the least."
+FOOD,1 stuff tilapia,The stuff tilapia was horrid...tasted like cardboard.
+QUALITY,1 stuff tilapia,The stuff tilapia was horrid...tasted like cardboard.
+FOOD,1 dessert,"We thought the dessert would be better, Wrong!"
+QUALITY,1 dessert,"We thought the dessert would be better, Wrong!"
+RESTAURANT,1 NEG,$170 down the toilet...
+GENERAL,1 NEG,$170 down the toilet...
+RESTAURANT,1 NEG,$170 down the toilet...
+PRICES,1 NEG,$170 down the toilet...
+AMBIENCE,1 mens bathroom,"oh speaking of bathroom , the mens bathroom was disgusting."
+GENERAL,1 mens bathroom,"oh speaking of bathroom , the mens bathroom was disgusting."
+AMBIENCE,1 NEG,"The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left."
+GENERAL,1 NEG,"The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left."
+RESTAURANT,3 NEG,Good Experience
+GENERAL,3 NEG,Good Experience
+DRINKS,3 wine list,The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+STYLE_OPTIONS,3 wine list,The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+SERVICE,1 staff,The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+GENERAL,1 staff,The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+FOOD,1 bread,"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing."
+QUALITY,1 bread,"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing."
+FOOD,1 appetizer of olives,"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing."
+QUALITY,1 appetizer of olives,"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing."
+FOOD,2 appetizer of olives,"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing."
+PRICES,2 appetizer of olives,"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing."
+FOOD,3 main course,"However, our main course was wonderful."
+QUALITY,3 main course,"However, our main course was wonderful."
+FOOD,3 fish,I had fish and my husband had the filet - both of which exceeded our expectations.
+QUALITY,3 fish,I had fish and my husband had the filet - both of which exceeded our expectations.
+FOOD,3 filet,I had fish and my husband had the filet - both of which exceeded our expectations.
+QUALITY,3 filet,I had fish and my husband had the filet - both of which exceeded our expectations.
+FOOD,3 pear torte,"The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions."
+QUALITY,3 pear torte,"The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions."
+SERVICE,1 staff,"The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions."
+GENERAL,1 staff,"The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions."
+SERVICE,1 waitress,When we inquired about ports - the waitress listed off several but did not know taste variations or cost.
+GENERAL,1 waitress,When we inquired about ports - the waitress listed off several but did not know taste variations or cost.
+SERVICE,1 NEG,Not what I would expect for the price and prestige of this location.
+GENERAL,1 NEG,Not what I would expect for the price and prestige of this location.
+RESTAURANT,2 location,Not what I would expect for the price and prestige of this location.
+PRICES,2 location,Not what I would expect for the price and prestige of this location.
+RESTAURANT,2 location,Not what I would expect for the price and prestige of this location.
+MISCELLANEOUS,2 location,Not what I would expect for the price and prestige of this location.
+RESTAURANT,3 restaurant,"All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future."
+GENERAL,3 restaurant,"All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future."
+AMBIENCE,3 restaurant,"All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future."
+GENERAL,3 restaurant,"All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future."
+SERVICE,1 staff,"All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future."
+GENERAL,1 staff,"All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future."
+AMBIENCE,3 seating,"short and sweet – seating is great:it's romantic,cozy and private."
+GENERAL,3 seating,"short and sweet – seating is great:it's romantic,cozy and private."
+AMBIENCE,3 boths,The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.
+GENERAL,3 boths,The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.
+SERVICE,3 service,The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+GENERAL,3 service,The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+SERVICE,3 service button,The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+GENERAL,3 service button,The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+SERVICE,1 waiter,The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+GENERAL,1 waiter,The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+FOOD,2 food,The food was ok and fair nothing to go crazy.
+QUALITY,2 food,The food was ok and fair nothing to go crazy.
+AMBIENCE,3 looks,Over all the looks of the place exceeds the actual meals.
+GENERAL,3 looks,Over all the looks of the place exceeds the actual meals.
+FOOD,1 meals,Over all the looks of the place exceeds the actual meals.
+QUALITY,1 meals,Over all the looks of the place exceeds the actual meals.
+RESTAURANT,1 restaurant,So what you really end up paying for is the restaurant not the food.
+PRICES,1 restaurant,So what you really end up paying for is the restaurant not the food.
+AMBIENCE,2 restaurant,So what you really end up paying for is the restaurant not the food.
+GENERAL,2 restaurant,So what you really end up paying for is the restaurant not the food.
+FOOD,1 food,So what you really end up paying for is the restaurant not the food.
+QUALITY,1 food,So what you really end up paying for is the restaurant not the food.
+RESTAURANT,1 NEG,Will prob. not return but it is a great dinning experience to try atleast once.
+GENERAL,1 NEG,Will prob. not return but it is a great dinning experience to try atleast once.
+RESTAURANT,3 NEG,Will prob. not return but it is a great dinning experience to try atleast once.
+GENERAL,3 NEG,Will prob. not return but it is a great dinning experience to try atleast once.
+RESTAURANT,3 NEG,Impressed...
+GENERAL,3 NEG,Impressed...
+FOOD,3 food,Subtle food and service
+QUALITY,3 food,Subtle food and service
+SERVICE,3 service,Subtle food and service
+GENERAL,3 service,Subtle food and service
+SERVICE,3 service,Noodle pudding is exactly the type of service and food I enjoy.
+GENERAL,3 service,Noodle pudding is exactly the type of service and food I enjoy.
+FOOD,3 food,Noodle pudding is exactly the type of service and food I enjoy.
+QUALITY,3 food,Noodle pudding is exactly the type of service and food I enjoy.
+SERVICE,3 Greg,"Servers are all different, Greg is my favorite."
+GENERAL,3 Greg,"Servers are all different, Greg is my favorite."
+SERVICE,3 server,"Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner."
+GENERAL,3 server,"Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner."
+SERVICE,3 runner,This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.
+GENERAL,3 runner,This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.
+FOOD,3 food,Prices are fair across the board for both food and bev.
+PRICES,3 food,Prices are fair across the board for both food and bev.
+DRINKS,3 bev,Prices are fair across the board for both food and bev.
+PRICES,3 bev,Prices are fair across the board for both food and bev.
+SERVICE,3 servers,"I go out to eat and like my courses, servers are patient and never rush courses or force another drink."
+GENERAL,3 servers,"I go out to eat and like my courses, servers are patient and never rush courses or force another drink."
+FOOD,3 dogs,amazing fresh dogs but best of all endless toppings!!!
+QUALITY,3 dogs,amazing fresh dogs but best of all endless toppings!!!
+FOOD,3 toppings,amazing fresh dogs but best of all endless toppings!!!
+STYLE_OPTIONS,3 toppings,amazing fresh dogs but best of all endless toppings!!!
+FOOD,3 trimmings,this place had ALL the trimmings and i mean all.
+STYLE_OPTIONS,3 trimmings,this place had ALL the trimmings and i mean all.
+FOOD,3 NEG,"peppers, onions, relish, chilli, cheeses, you NAME it."
+STYLE_OPTIONS,3 NEG,"peppers, onions, relish, chilli, cheeses, you NAME it."
+RESTAURANT,3 place,amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+GENERAL,3 place,amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+FOOD,3 hot dog,amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+QUALITY,3 hot dog,amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+RESTAURANT,3 NEG,BEST DINING EXPERIENCE IN THE WEST VILLAGE!
+GENERAL,3 NEG,BEST DINING EXPERIENCE IN THE WEST VILLAGE!
+RESTAURANT,3 Casa La Femme,Stepping into Casa La Femme last night was a true experience unlike any other in New York!
+GENERAL,3 Casa La Femme,Stepping into Casa La Femme last night was a true experience unlike any other in New York!
+AMBIENCE,3 decor,Highly impressed from the decor to the food to the hospitality to the great night I had!
+GENERAL,3 decor,Highly impressed from the decor to the food to the hospitality to the great night I had!
+FOOD,3 food,Highly impressed from the decor to the food to the hospitality to the great night I had!
+QUALITY,3 food,Highly impressed from the decor to the food to the hospitality to the great night I had!
+SERVICE,3 NEG,Highly impressed from the decor to the food to the hospitality to the great night I had!
+GENERAL,3 NEG,Highly impressed from the decor to the food to the hospitality to the great night I had!
+RESTAURANT,3 NEG,Highly impressed from the decor to the food to the hospitality to the great night I had!
+GENERAL,3 NEG,Highly impressed from the decor to the food to the hospitality to the great night I had!
+DRINKS,3 cocktail with Citrus Vodka and lemon and lime juice and mint leaves,The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!
+QUALITY,3 cocktail with Citrus Vodka and lemon and lime juice and mint leaves,The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!
+FOOD,3 Food,"Food took some time to prepare, all worth waiting for."
+QUALITY,3 Food,"Food took some time to prepare, all worth waiting for."
+SERVICE,2 NEG,"Food took some time to prepare, all worth waiting for."
+GENERAL,2 NEG,"Food took some time to prepare, all worth waiting for."
+AMBIENCE,3 belly dancing show,We were drawn into the belly dancing show that captivated the crowd.
+GENERAL,3 belly dancing show,We were drawn into the belly dancing show that captivated the crowd.
+RESTAURANT,3 restaurant,I never write on these sites but this restaurant is def worth commending!
+GENERAL,3 restaurant,I never write on these sites but this restaurant is def worth commending!
+RESTAURANT,3 NEG,Great find in the West Village!
+GENERAL,3 NEG,Great find in the West Village!
+FOOD,1 food,Maggot in the food!
+QUALITY,1 food,Maggot in the food!
+FOOD,3 menu,"The menu looked great, and the waiter was very nice, but when the food came, it was average."
+STYLE_OPTIONS,3 menu,"The menu looked great, and the waiter was very nice, but when the food came, it was average."
+SERVICE,3 waiter,"The menu looked great, and the waiter was very nice, but when the food came, it was average."
+GENERAL,3 waiter,"The menu looked great, and the waiter was very nice, but when the food came, it was average."
+FOOD,2 food,"The menu looked great, and the waiter was very nice, but when the food came, it was average."
+QUALITY,2 food,"The menu looked great, and the waiter was very nice, but when the food came, it was average."
+FOOD,1 mushroom sauce,"Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom."
+QUALITY,1 mushroom sauce,"Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom."
+SERVICE,3 manager,"I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for)."
+GENERAL,3 manager,"I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for)."
+SERVICE,1 manager,"I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for)."
+GENERAL,1 manager,"I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for)."
+SERVICE,1 NEG,"When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it."
+GENERAL,1 NEG,"When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it."
+SERVICE,1 manager,"The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession."
+GENERAL,1 manager,"The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession."
+SERVICE,1 NEG,We paid and left because we didn't feel like arguing any more.
+GENERAL,1 NEG,We paid and left because we didn't feel like arguing any more.
+FOOD,1 food,"I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food."
+QUALITY,1 food,"I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food."
+RESTAURANT,3 restaurant,"For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service."
+MISCELLANEOUS,3 restaurant,"For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service."
+SERVICE,1 customer service,"For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service."
+GENERAL,1 customer service,"For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service."
+FOOD,1 NEG,Unhygienic
+QUALITY,1 NEG,Unhygienic
+RESTAURANT,1 NEG,I do not recommend.
+GENERAL,1 NEG,I do not recommend.
+FOOD,1 food,I got hair in my food 2 times of then !
+QUALITY,1 food,I got hair in my food 2 times of then !
+RESTAURANT,3 place,"Great place, great value."
+GENERAL,3 place,"Great place, great value."
+RESTAURANT,3 place,"Great place, great value."
+PRICES,3 place,"Great place, great value."
+FOOD,3 food,"The food is flavorful, plentiful and reasonably priced."
+QUALITY,3 food,"The food is flavorful, plentiful and reasonably priced."
+FOOD,3 food,"The food is flavorful, plentiful and reasonably priced."
+STYLE_OPTIONS,3 food,"The food is flavorful, plentiful and reasonably priced."
+FOOD,3 food,"The food is flavorful, plentiful and reasonably priced."
+PRICES,3 food,"The food is flavorful, plentiful and reasonably priced."
+AMBIENCE,3 atmosphere,The atmosphere is relaxed and casual.
+GENERAL,3 atmosphere,The atmosphere is relaxed and casual.
+RESTAURANT,3 place,It's a great place to order from or sit-in.
+MISCELLANEOUS,3 place,It's a great place to order from or sit-in.
+RESTAURANT,3 NEG,Awesome
+GENERAL,3 NEG,Awesome
+RESTAURANT,3 NEG,"Inexpensive, unassuming, great time!"
+PRICES,3 NEG,"Inexpensive, unassuming, great time!"
+AMBIENCE,3 NEG,"Inexpensive, unassuming, great time!"
+GENERAL,3 NEG,"Inexpensive, unassuming, great time!"
+RESTAURANT,3 NEG,"Inexpensive, unassuming, great time!"
+GENERAL,3 NEG,"Inexpensive, unassuming, great time!"
+FOOD,3 Sushi,Sushi experience was unbelievable with my fiance.
+QUALITY,3 Sushi,Sushi experience was unbelievable with my fiance.
+RESTAURANT,3 NEG,Try it!
+GENERAL,3 NEG,Try it!
+RESTAURANT,3 NEG,Very pleased
+GENERAL,3 NEG,Very pleased
+FOOD,3 rolls,Good creative rolls!
+QUALITY,3 rolls,Good creative rolls!
+FOOD,3 rolls,Good creative rolls!
+STYLE_OPTIONS,3 rolls,Good creative rolls!
+RESTAURANT,3 Yamato,"Yamato is an excellent place to go if youre not into sashimi, or if you have friends who doesnt like sushi much."
+MISCELLANEOUS,3 Yamato,"Yamato is an excellent place to go if youre not into sashimi, or if you have friends who doesnt like sushi much."
+FOOD,3 rolls,"They have great rolls, the triple color and norwegetan rolls, are awesome and filling."
+QUALITY,3 rolls,"They have great rolls, the triple color and norwegetan rolls, are awesome and filling."
+FOOD,3 triple color and norwegetan rolls,"They have great rolls, the triple color and norwegetan rolls, are awesome and filling."
+QUALITY,3 triple color and norwegetan rolls,"They have great rolls, the triple color and norwegetan rolls, are awesome and filling."
+FOOD,3 triple color and norwegetan rolls,"They have great rolls, the triple color and norwegetan rolls, are awesome and filling."
+STYLE_OPTIONS,3 triple color and norwegetan rolls,"They have great rolls, the triple color and norwegetan rolls, are awesome and filling."
+FOOD,3 dessert,"One special roll and one regular roll is enough to fill you up, but save room for dessert!"
+QUALITY,3 dessert,"One special roll and one regular roll is enough to fill you up, but save room for dessert!"
+FOOD,3 special roll,"One special roll and one regular roll is enough to fill you up, but save room for dessert!"
+STYLE_OPTIONS,3 special roll,"One special roll and one regular roll is enough to fill you up, but save room for dessert!"
+FOOD,3 regular roll,"One special roll and one regular roll is enough to fill you up, but save room for dessert!"
+STYLE_OPTIONS,3 regular roll,"One special roll and one regular roll is enough to fill you up, but save room for dessert!"
+FOOD,3 banana chocolate dessert,"They have a delicious banana chocolate dessert, as well as a great green tea tempura."
+QUALITY,3 banana chocolate dessert,"They have a delicious banana chocolate dessert, as well as a great green tea tempura."
+FOOD,3 green tea tempura,"They have a delicious banana chocolate dessert, as well as a great green tea tempura."
+QUALITY,3 green tea tempura,"They have a delicious banana chocolate dessert, as well as a great green tea tempura."
+FOOD,3 appetizers,The appetizers are also delicious!
+QUALITY,3 appetizers,The appetizers are also delicious!
+FOOD,3 food,Amazing food.
+QUALITY,3 food,Amazing food.
+AMBIENCE,1 interior,Mazing interior.
+GENERAL,1 interior,Mazing interior.
+FOOD,3 food,Great food!
+QUALITY,3 food,Great food!
+FOOD,3 modern Japanese,I've had my fair share of modern Japanese and this spot delivers.
+QUALITY,3 modern Japanese,I've had my fair share of modern Japanese and this spot delivers.
+AMBIENCE,1 atmosphere,"The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors."
+GENERAL,1 atmosphere,"The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors."
+AMBIENCE,1 scheme of mirrors,"The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors."
+GENERAL,1 scheme of mirrors,"The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors."
+AMBIENCE,1 NEG,"If you're into being lost when you're just five feet from your table then hey, that's a good thing."
+GENERAL,1 NEG,"If you're into being lost when you're just five feet from your table then hey, that's a good thing."
+FOOD,3 modern Japanese food,Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+QUALITY,3 modern Japanese food,Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+AMBIENCE,1 mirrors,Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+GENERAL,1 mirrors,Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+FOOD,3 Indo Chinese food,"Indo Chinese food, pretty good..."
+QUALITY,3 Indo Chinese food,"Indo Chinese food, pretty good..."
+AMBIENCE,2 place,Not a very fancy place but very good Chinese style Indian food.
+GENERAL,2 place,Not a very fancy place but very good Chinese style Indian food.
+FOOD,3 Chinese style Indian food,Not a very fancy place but very good Chinese style Indian food.
+QUALITY,3 Chinese style Indian food,Not a very fancy place but very good Chinese style Indian food.
+FOOD,3 chicken lollipop,"The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken."
+QUALITY,3 chicken lollipop,"The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken."
+FOOD,1 dishes,"The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken."
+QUALITY,1 dishes,"The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken."
+FOOD,1 Chilli Chicken,"The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken."
+QUALITY,1 Chilli Chicken,"The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken."
+FOOD,1 food,"My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily."
+QUALITY,1 food,"My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily."
+RESTAURANT,3 NEG,Still we keep going back :)
+GENERAL,3 NEG,Still we keep going back :)
+FOOD,1 food,I was speechless by the horrible food.
+QUALITY,1 food,I was speechless by the horrible food.
+FOOD,1 food,"I attended a holiday dinner at the restaurant, and the food was majorly disappointing."
+QUALITY,1 food,"I attended a holiday dinner at the restaurant, and the food was majorly disappointing."
+SERVICE,1 chef,"Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation)."
+GENERAL,1 chef,"Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation)."
+FOOD,1 vegetarian dish,"Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation)."
+QUALITY,1 vegetarian dish,"Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation)."
+FOOD,1 vegetarian dish,"Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation)."
+STYLE_OPTIONS,1 vegetarian dish,"Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation)."
+RESTAURANT,1 NEG,"I was so stunned, and I left the dinner hungry and majorly disappointing."
+GENERAL,1 NEG,"I was so stunned, and I left the dinner hungry and majorly disappointing."
+RESTAURANT,1 place,This place survives on reputation alone.
+MISCELLANEOUS,1 place,This place survives on reputation alone.
+RESTAURANT,1 NEG,I will NEVER return.
+GENERAL,1 NEG,I will NEVER return.
+RESTAURANT,3 NEG,Best In ALL of NYC
+GENERAL,3 NEG,Best In ALL of NYC
+RESTAURANT,3 restaurant,"This is the MOST wonderful restaurant in all of New York City, not just Brooklyn..."
+GENERAL,3 restaurant,"This is the MOST wonderful restaurant in all of New York City, not just Brooklyn..."
+FOOD,3 food,"for 7 years they have put out the most tasty, most delicious food and kept it that way..."
+QUALITY,3 food,"for 7 years they have put out the most tasty, most delicious food and kept it that way..."
+RESTAURANT,3 NEG,"never swaying, never a bad meal, never bad service..."
+GENERAL,3 NEG,"never swaying, never a bad meal, never bad service..."
+FOOD,3 meal,"never swaying, never a bad meal, never bad service..."
+QUALITY,3 meal,"never swaying, never a bad meal, never bad service..."
+SERVICE,3 service,"never swaying, never a bad meal, never bad service..."
+GENERAL,3 service,"never swaying, never a bad meal, never bad service..."
+RESTAURANT,3 NEG,you should travel from the Bronx to try it...
+GENERAL,3 NEG,you should travel from the Bronx to try it...
+FOOD,3 food,"great food, great wine list, great service in a great neighborhood..."
+QUALITY,3 food,"great food, great wine list, great service in a great neighborhood..."
+DRINKS,3 wine list,"great food, great wine list, great service in a great neighborhood..."
+STYLE_OPTIONS,3 wine list,"great food, great wine list, great service in a great neighborhood..."
+SERVICE,3 service,"great food, great wine list, great service in a great neighborhood..."
+GENERAL,3 service,"great food, great wine list, great service in a great neighborhood..."
+LOCATION,3 neighborhood,"great food, great wine list, great service in a great neighborhood..."
+GENERAL,3 neighborhood,"great food, great wine list, great service in a great neighborhood..."
+FOOD,3 NEG,so delicious!!!!!!
+QUALITY,3 NEG,so delicious!!!!!!
+RESTAURANT,3 Patsy's Pizza,Patsy's Pizza = true love
+GENERAL,3 Patsy's Pizza,Patsy's Pizza = true love
+FOOD,3 pizza,Hands down the best pizza on the planet.
+QUALITY,3 pizza,Hands down the best pizza on the planet.
+FOOD,3 NEG,"In about 12 minutes, the thing is gone."
+QUALITY,3 NEG,"In about 12 minutes, the thing is gone."
+FOOD,3 hot dogs,great hot dogs..
+QUALITY,3 hot dogs,great hot dogs..
+FOOD,3 hot dogs,the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.
+QUALITY,3 hot dogs,the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.
+FOOD,3 toppings,great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+QUALITY,3 toppings,great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+RESTAURANT,3 place,great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+MISCELLANEOUS,3 place,great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+FOOD,3 NEG,great taste
+QUALITY,3 NEG,great taste
+FOOD,3 NEG,"Great, original taste."
+QUALITY,3 NEG,"Great, original taste."
+FOOD,1 dishes,"For me dishes a little oily, but overall dining experience good."
+QUALITY,1 dishes,"For me dishes a little oily, but overall dining experience good."
+RESTAURANT,3 NEG,"For me dishes a little oily, but overall dining experience good."
+GENERAL,3 NEG,"For me dishes a little oily, but overall dining experience good."
+SERVICE,3 service,Helpful service and average price per dish $10.
+GENERAL,3 service,Helpful service and average price per dish $10.
+FOOD,2 dish,Helpful service and average price per dish $10.
+PRICES,2 dish,Helpful service and average price per dish $10.
+AMBIENCE,1 decor,The only thing that strikes you is the decor?(not very pleasant).
+GENERAL,1 decor,The only thing that strikes you is the decor?(not very pleasant).
+FOOD,3 food,great food
+QUALITY,3 food,great food
+FOOD,3 indian chinese food,This place has great indian chinese food.
+QUALITY,3 indian chinese food,This place has great indian chinese food.
+FOOD,3 NEG,The flavors are amazing and the value is phenomenal.
+QUALITY,3 NEG,The flavors are amazing and the value is phenomenal.
+FOOD,3 NEG,The flavors are amazing and the value is phenomenal.
+PRICES,3 NEG,The flavors are amazing and the value is phenomenal.
+RESTAURANT,1 place,"Be prepared to wait, because the place is pretty tiny."
+MISCELLANEOUS,1 place,"Be prepared to wait, because the place is pretty tiny."
+AMBIENCE,1 place,"Be prepared to wait, because the place is pretty tiny."
+GENERAL,1 place,"Be prepared to wait, because the place is pretty tiny."
+RESTAURANT,2 NEG,"Also, they do not take credit card so come with cash!"
+MISCELLANEOUS,2 NEG,"Also, they do not take credit card so come with cash!"
+AMBIENCE,1 place,"Even though the place is not beautiful, the food speaks for itself."
+GENERAL,1 place,"Even though the place is not beautiful, the food speaks for itself."
+FOOD,3 food,"Even though the place is not beautiful, the food speaks for itself."
+QUALITY,3 food,"Even though the place is not beautiful, the food speaks for itself."
+FOOD,3 Indian Chinese,"Best Indian Chinese in the city, by far!"
+QUALITY,3 Indian Chinese,"Best Indian Chinese in the city, by far!"
+RESTAURANT,3 NEG,AMAZING MY FAVORITE!!!
+GENERAL,3 NEG,AMAZING MY FAVORITE!!!
+RESTAURANT,3 Village Underground,"I came across Village Underground by accident, now I go there all the time."
+GENERAL,3 Village Underground,"I came across Village Underground by accident, now I go there all the time."
+DRINKS,3 martinis,The martinis are amazing and very fairly priced.
+QUALITY,3 martinis,The martinis are amazing and very fairly priced.
+DRINKS,3 martinis,The martinis are amazing and very fairly priced.
+PRICES,3 martinis,The martinis are amazing and very fairly priced.
+SERVICE,3 SERVICE,"THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC."
+GENERAL,3 SERVICE,"THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC."
+SERVICE,3 waiters,"THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC."
+GENERAL,3 waiters,"THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC."
+AMBIENCE,3 DJ,"The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back."
+GENERAL,3 DJ,"The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back."
+RESTAURANT,3 NEG,"The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back."
+GENERAL,3 NEG,"The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back."
+SERVICE,3 NEG,You can get a table without a reservation if you get there early I they don't make you by bottles.
+GENERAL,3 NEG,You can get a table without a reservation if you get there early I they don't make you by bottles.
+SERVICE,3 NEG,Which lets face it....at times it's a good thing.
+GENERAL,3 NEG,Which lets face it....at times it's a good thing.
+RESTAURANT,3 NEG,In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!
+PRICES,3 NEG,In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!
+RESTAURANT,3 NEG,In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!
+GENERAL,3 NEG,In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!
+RESTAURANT,3 NEG,Highly recommended!
+GENERAL,3 NEG,Highly recommended!
+RESTAURANT,3 NEG,"One of the best, if not THE best, restaurants in Park Slope (and NY in general)"
+GENERAL,3 NEG,"One of the best, if not THE best, restaurants in Park Slope (and NY in general)"
+FOOD,3 menu,Everything on the menu is great. 
+QUALITY,3 menu,Everything on the menu is great. 
+RESTAURANT,3 establishment,This establishment is the real deal. 
+GENERAL,3 establishment,This establishment is the real deal. 
+AMBIENCE,3 NEG,"Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait."
+GENERAL,3 NEG,"Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait."
+FOOD,3 food,"Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait."
+QUALITY,3 food,"Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait."
+RESTAURANT,3 NEG,"Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait."
+GENERAL,3 NEG,"Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait."
+FOOD,1 dinner for two,But $500 for a dinner for two that didn't include Wine?
+PRICES,1 dinner for two,But $500 for a dinner for two that didn't include Wine?
+FOOD,3 appetizers,"Look, the appetizers were really good."
+QUALITY,3 appetizers,"Look, the appetizers were really good."
+FOOD,3 entree,The entree was also very good.
+QUALITY,3 entree,The entree was also very good.
+FOOD,1 NEG,"Can't argue about that, but they are clearly over priced."
+PRICES,1 NEG,"Can't argue about that, but they are clearly over priced."
+AMBIENCE,2 environment,What you are paying for is the environment and the name.
+GENERAL,2 environment,What you are paying for is the environment and the name.
+RESTAURANT,2 NEG,What you are paying for is the environment and the name.
+MISCELLANEOUS,2 NEG,What you are paying for is the environment and the name.
+RESTAURANT,1 NEG,What you are paying for is the environment and the name.
+PRICES,1 NEG,What you are paying for is the environment and the name.
+AMBIENCE,3 place,"Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while."
+GENERAL,3 place,"Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while."
+RESTAURANT,1 place,"Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while."
+PRICES,1 place,"Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while."
+FOOD,1 NEG,Which of course is not real Kobe but Wagyu beef.
+QUALITY,1 NEG,Which of course is not real Kobe but Wagyu beef.
+RESTAURANT,1 NEG,Surprised that a place of this caliber would advertise it as Kobe.
+MISCELLANEOUS,1 NEG,Surprised that a place of this caliber would advertise it as Kobe.
+FOOD,2 Vanison,Vanison was good but not amazing.
+QUALITY,2 Vanison,Vanison was good but not amazing.
+FOOD,3 Bison,Bison was quite excellent however.
+QUALITY,3 Bison,Bison was quite excellent however.
+FOOD,1 Dessert,Dessert: pure disaster.
+QUALITY,1 Dessert,Dessert: pure disaster.
+FOOD,1 NEG,Just not good at all.
+QUALITY,1 NEG,Just not good at all.
+FOOD,1 NEG,Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+STYLE_OPTIONS,1 NEG,Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+FOOD,1 NEG,Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+QUALITY,1 NEG,Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+RESTAURANT,1 restaurant,"I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it."
+PRICES,1 restaurant,"I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it."
+RESTAURANT,1 restaurant,"I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it."
+GENERAL,1 restaurant,"I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it."
+RESTAURANT,2 The Four Seasons,"The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I've been to the four seasons restaurant""."
+MISCELLANEOUS,2 The Four Seasons,"The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I've been to the four seasons restaurant""."
+RESTAURANT,1 The Four Seasons,"The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I've been to the four seasons restaurant""."
+PRICES,1 The Four Seasons,"The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I've been to the four seasons restaurant""."
+RESTAURANT,1 NEG,"I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it."
+GENERAL,1 NEG,"I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it."
+RESTAURANT,1 NEG,"I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it."
+PRICES,1 NEG,"I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it."
+FOOD,3 food,"All in all, the food was great (except for the dessserts)."
+QUALITY,3 food,"All in all, the food was great (except for the dessserts)."
+FOOD,1 dessserts,"All in all, the food was great (except for the dessserts)."
+QUALITY,1 dessserts,"All in all, the food was great (except for the dessserts)."
+AMBIENCE,2 environment,The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+GENERAL,2 environment,The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+RESTAURANT,2 NEG,The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+MISCELLANEOUS,2 NEG,The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+FOOD,1 food,"If you are going for the food, it will not be worth it."
+QUALITY,1 food,"If you are going for the food, it will not be worth it."
+SERVICE,1 service,"You would think they would make up for it with service, sadly, no."
+GENERAL,1 service,"You would think they would make up for it with service, sadly, no."
+SERVICE,1 Service,"Service was just ok, it is not what you'd expect for $500."
+GENERAL,1 Service,"Service was just ok, it is not what you'd expect for $500."
+RESTAURANT,1 NEG,"Service was just ok, it is not what you'd expect for $500."
+PRICES,1 NEG,"Service was just ok, it is not what you'd expect for $500."
+RESTAURANT,1 NEG,Terrible Waste of money.. scammers
+GENERAL,1 NEG,Terrible Waste of money.. scammers
+RESTAURANT,1 NEG,Terrible Waste of money.. scammers
+PRICES,1 NEG,Terrible Waste of money.. scammers
+RESTAURANT,1 Casa La Femme,I agree that dining at Casa La Femme is like no other dining experience!
+GENERAL,1 Casa La Femme,I agree that dining at Casa La Femme is like no other dining experience!
+RESTAURANT,1 NEG,I am actually offended to have spent so much money on such a bad experience.
+GENERAL,1 NEG,I am actually offended to have spent so much money on such a bad experience.
+RESTAURANT,1 NEG,I am actually offended to have spent so much money on such a bad experience.
+PRICES,1 NEG,I am actually offended to have spent so much money on such a bad experience.
+RESTAURANT,1 Casa La Femme,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.
+GENERAL,1 Casa La Femme,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.
+RESTAURANT,1 Casa La Femme,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.
+PRICES,1 Casa La Femme,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.
+RESTAURANT,1 NEG,"Our visit their to say the least, was an unpleasant and costly experience!"
+GENERAL,1 NEG,"Our visit their to say the least, was an unpleasant and costly experience!"
+RESTAURANT,1 NEG,"Our visit their to say the least, was an unpleasant and costly experience!"
+PRICES,1 NEG,"Our visit their to say the least, was an unpleasant and costly experience!"
+RESTAURANT,1 NEG,And even more so unpleasant because it was so costly for such an unpleasant experience.
+GENERAL,1 NEG,And even more so unpleasant because it was so costly for such an unpleasant experience.
+RESTAURANT,1 NEG,And even more so unpleasant because it was so costly for such an unpleasant experience.
+PRICES,1 NEG,And even more so unpleasant because it was so costly for such an unpleasant experience.
+SERVICE,2 wait,We did arrive late for our reservation so I can not complain too much about the wait for a table.
+GENERAL,2 wait,We did arrive late for our reservation so I can not complain too much about the wait for a table.
+SERVICE,1 NEG,Although we were told 10-15 minutes and it was more like 45 minutes.
+GENERAL,1 NEG,Although we were told 10-15 minutes and it was more like 45 minutes.
+RESTAURANT,3 NEG,We were ushered to the bar to wait momentarily and upon arrival were so excited.
+GENERAL,3 NEG,We were ushered to the bar to wait momentarily and upon arrival were so excited.
+AMBIENCE,3 place,The place is beautiful!
+GENERAL,3 place,The place is beautiful!
+SERVICE,3 hostess,The hostess was very pleasant.
+GENERAL,3 hostess,The hostess was very pleasant.
+DRINKS,1 drinks,"However, our $14 drinks were were horrible!"
+QUALITY,1 drinks,"However, our $14 drinks were were horrible!"
+DRINKS,1 drinks,"However, our $14 drinks were were horrible!"
+PRICES,1 drinks,"However, our $14 drinks were were horrible!"
+SERVICE,1 NEG,"Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!"
+GENERAL,1 NEG,"Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!"
+RESTAURANT,1 NEG,Our experience did not ever get any better.
+GENERAL,1 NEG,Our experience did not ever get any better.
+SERVICE,1 NEG,For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.
+GENERAL,1 NEG,For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.
+SERVICE,1 waiter,We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.
+GENERAL,1 waiter,We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.
+SERVICE,1 waiter,After the 4th time i asked again and the waiter than said after our dinner.
+GENERAL,1 waiter,After the 4th time i asked again and the waiter than said after our dinner.
+SERVICE,1 NEG,We asked for beverages and never received them.
+GENERAL,1 NEG,We asked for beverages and never received them.
+SERVICE,1 waiter,We asked for sides which the waiter than admitted that he forgot to put in that part of our order.
+GENERAL,1 waiter,We asked for sides which the waiter than admitted that he forgot to put in that part of our order.
+FOOD,1 chicken,My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.
+QUALITY,1 chicken,My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.
+FOOD,1 dinner,I would not expect this for a $55 dinner.
+QUALITY,1 dinner,I would not expect this for a $55 dinner.
+FOOD,1 dinner,I would not expect this for a $55 dinner.
+PRICES,1 dinner,I would not expect this for a $55 dinner.
+SERVICE,1 NEG,By the time we finished our dinner we still had not received one beverage NOR hooka!
+GENERAL,1 NEG,By the time we finished our dinner we still had not received one beverage NOR hooka!
+SERVICE,1 NEG,What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!
+GENERAL,1 NEG,What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!
+SERVICE,1 NEG,The only beverage we did receive was water in dirty glasses!
+GENERAL,1 NEG,The only beverage we did receive was water in dirty glasses!
+SERVICE,1 NEG,To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+GENERAL,1 NEG,To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+RESTAURANT,1 NEG,To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+MISCELLANEOUS,1 NEG,To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+FOOD,1 food,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!"
+QUALITY,1 food,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!"
+RESTAURANT,1 NEG,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!"
+PRICES,1 NEG,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!"
+RESTAURANT,1 NEG,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!"
+MISCELLANEOUS,1 NEG,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!"
+FOOD,1 meal,If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+QUALITY,1 meal,If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+RESTAURANT,1 NEG,If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+PRICES,1 NEG,If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+RESTAURANT,1 restaurant,"I have never left a restaurant feeling as if i was abused, and wasted my hard earned money."
+GENERAL,1 restaurant,"I have never left a restaurant feeling as if i was abused, and wasted my hard earned money."
+RESTAURANT,1 restaurant,"I have never left a restaurant feeling as if i was abused, and wasted my hard earned money."
+PRICES,1 restaurant,"I have never left a restaurant feeling as if i was abused, and wasted my hard earned money."
+RESTAURANT,1 NEG,MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+GENERAL,1 NEG,MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+RESTAURANT,1 NEG,MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+PRICES,1 NEG,MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+SERVICE,1 NEG,MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+GENERAL,1 NEG,MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+RESTAURANT,1 NEG,I wish I COULD be refunded!
+GENERAL,1 NEG,I wish I COULD be refunded!
+RESTAURANT,1 NEG,Don't go with a larger group than 4! 
+MISCELLANEOUS,1 NEG,Don't go with a larger group than 4! 
+SERVICE,3 NEG,"At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us."
+GENERAL,3 NEG,"At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us."
+FOOD,2 menu,The menu is fairly simple without much descriptions. 
+STYLE_OPTIONS,2 menu,The menu is fairly simple without much descriptions. 
+DRINKS,1 beer,"There was no tap beer that evening, which was a disappointment. "
+STYLE_OPTIONS,1 beer,"There was no tap beer that evening, which was a disappointment. "
+DRINKS,1 selection of bottled beer,"Not much of a selection of bottled beer either, we went with Brahma. "
+STYLE_OPTIONS,1 selection of bottled beer,"Not much of a selection of bottled beer either, we went with Brahma. "
+FOOD,3 fried oysters and clams,The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+QUALITY,3 fried oysters and clams,The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+FOOD,1 fried oysters and clams,The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+STYLE_OPTIONS,1 fried oysters and clams,The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+SERVICE,3 NEG,The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+GENERAL,3 NEG,The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+FOOD,2 lobster knuckles,"The lobster knuckles (special of the day) were ok, but pretty tasteless."
+STYLE_OPTIONS,2 lobster knuckles,"The lobster knuckles (special of the day) were ok, but pretty tasteless."
+FOOD,1 lobster knuckles,"The lobster knuckles (special of the day) were ok, but pretty tasteless."
+QUALITY,1 lobster knuckles,"The lobster knuckles (special of the day) were ok, but pretty tasteless."
+FOOD,1 &quot;salt encrusted shrimp&quot; appetizer,"I believe there were 2 shrimp in the ""salt encrusted shrimp"" appetizer. "
+STYLE_OPTIONS,1 &quot;salt encrusted shrimp&quot; appetizer,"I believe there were 2 shrimp in the ""salt encrusted shrimp"" appetizer. "
+SERVICE,1 NEG,"She replied ""well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded."" "
+GENERAL,1 NEG,"She replied ""well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded."" "
+SERVICE,2 NEG,The food arrived in about 15 minutes. 
+GENERAL,2 NEG,The food arrived in about 15 minutes. 
+FOOD,3 Thai style Fried Sea Bass,I had the Thai style Fried Sea Bass...which was very good. 
+QUALITY,3 Thai style Fried Sea Bass,I had the Thai style Fried Sea Bass...which was very good. 
+FOOD,3 food,"Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! "
+QUALITY,3 food,"Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! "
+FOOD,1 grilled Mahi Mahi,"Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! "
+QUALITY,1 grilled Mahi Mahi,"Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! "
+FOOD,1 grilled Mahi Mahi,"Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! "
+STYLE_OPTIONS,1 grilled Mahi Mahi,"Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! "
+FOOD,3 lobster roll,I heard the lobster roll was excellent. 
+QUALITY,3 lobster roll,I heard the lobster roll was excellent. 
+SERVICE,1 NEG,"They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand). "
+GENERAL,1 NEG,"They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand). "
+FOOD,3 food,"All in all the food was good - a little on the expensive side, but fresh. "
+QUALITY,3 food,"All in all the food was good - a little on the expensive side, but fresh. "
+FOOD,1 food,"All in all the food was good - a little on the expensive side, but fresh. "
+PRICES,1 food,"All in all the food was good - a little on the expensive side, but fresh. "
+SERVICE,1 Service,"Service not the friendliest to our ""large party""! "
+GENERAL,1 Service,"Service not the friendliest to our ""large party""! "
+RESTAURANT,1 NEG,Probably would not go back here.
+GENERAL,1 NEG,Probably would not go back here.
+FOOD,3 Indian food,Great Indian food
+QUALITY,3 Indian food,Great Indian food
+FOOD,3 Food,"Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had."
+QUALITY,3 Food,"Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had."
+FOOD,2 Indian food,"Very ""normal Indian food"", but done really well."
+STYLE_OPTIONS,2 Indian food,"Very ""normal Indian food"", but done really well."
+FOOD,3 Indian food,"Very ""normal Indian food"", but done really well."
+QUALITY,3 Indian food,"Very ""normal Indian food"", but done really well."
+RESTAURANT,3 place,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."
+GENERAL,3 place,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."
+RESTAURANT,1 place,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."
+PRICES,1 place,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."
+FOOD,1 chicken tikka masala,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."
+PRICES,1 chicken tikka masala,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."
+AMBIENCE,1 feel,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."
+GENERAL,1 feel,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."
+SERVICE,1 waiters,"Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $."
+GENERAL,1 waiters,"Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $."
+SERVICE,1 NEG,I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+GENERAL,1 NEG,I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+RESTAURANT,1 NEG,I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+PRICES,1 NEG,I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+FOOD,3 Indian food,"But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food"
+QUALITY,3 Indian food,"But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food"
+RESTAURANT,1 place,"But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food"
+PRICES,1 place,"But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food"
+RESTAURANT,3 NEG,One of the BEST
+GENERAL,3 NEG,One of the BEST
+RESTAURANT,3 Bukhara Grill,"Bukhara Grill, the tagline says it all.. ""INDIAN SPICE RAVE"""
+GENERAL,3 Bukhara Grill,"Bukhara Grill, the tagline says it all.. ""INDIAN SPICE RAVE"""
+FOOD,1 lunch buffet,The lunch buffet is expensive but is deff worth it.
+PRICES,1 lunch buffet,The lunch buffet is expensive but is deff worth it.
+FOOD,3 lunch buffet,The lunch buffet is expensive but is deff worth it.
+QUALITY,3 lunch buffet,The lunch buffet is expensive but is deff worth it.
+SERVICE,3 service,We have gone for dinner only a few times but the same great quality and service is given.
+GENERAL,3 service,We have gone for dinner only a few times but the same great quality and service is given.
+FOOD,3 dinner,We have gone for dinner only a few times but the same great quality and service is given.
+QUALITY,3 dinner,We have gone for dinner only a few times but the same great quality and service is given.
+RESTAURANT,3 Bukhara,Bukhara is on my top 5 Indian places in NYC
+GENERAL,3 Bukhara,Bukhara is on my top 5 Indian places in NYC
+RESTAURANT,1 NEG,Wretched and retching
+GENERAL,1 NEG,Wretched and retching
+FOOD,1 food,I have never been so disgusted by both food an service.
+QUALITY,1 food,I have never been so disgusted by both food an service.
+SERVICE,1 service,I have never been so disgusted by both food an service.
+GENERAL,1 service,I have never been so disgusted by both food an service.
+SERVICE,1 NEG,For starters they delivered us someone else's order.
+GENERAL,1 NEG,For starters they delivered us someone else's order.
+FOOD,1 kimchee,"However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin."
+QUALITY,1 kimchee,"However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin."
+FOOD,1 Korean fair,"However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin."
+QUALITY,1 Korean fair,"However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin."
+FOOD,1 food,"My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation."
+QUALITY,1 food,"My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation."
+SERVICE,1 NEG,"My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation."
+GENERAL,1 NEG,"My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation."
+SERVICE,1 NEG,None was made so i hung up.
+GENERAL,1 NEG,None was made so i hung up.
+FOOD,1 NEG,Less than three minutes passed before I found myself doubled over the toilet.
+QUALITY,1 NEG,Less than three minutes passed before I found myself doubled over the toilet.
+FOOD,1 meal,"My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant."
+QUALITY,1 meal,"My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant."
+SERVICE,1 NEG,"My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant."
+GENERAL,1 NEG,"My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant."
+RESTAURANT,1 restaurant,"It wasn't as if this restaurant had any major bragging points before hand, but now it's simply repulsive."
+GENERAL,1 restaurant,"It wasn't as if this restaurant had any major bragging points before hand, but now it's simply repulsive."
+FOOD,1 NEG,Eat at your own risk.
+QUALITY,1 NEG,Eat at your own risk.
+AMBIENCE,3 place,Gorgeous place ideal for a romantic dinner
+GENERAL,3 place,Gorgeous place ideal for a romantic dinner
+RESTAURANT,3 place,Gorgeous place ideal for a romantic dinner
+MISCELLANEOUS,3 place,Gorgeous place ideal for a romantic dinner
+FOOD,3 four course prix fix menu,I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+QUALITY,3 four course prix fix menu,I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+AMBIENCE,3 white organza tent,I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+GENERAL,3 white organza tent,I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+SERVICE,3 service,The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+GENERAL,3 service,The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+SERVICE,3 waiter,The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+GENERAL,3 waiter,The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+RESTAURANT,3 Casa La Femme,I completely recommend Casa La Femme for any special occasion and to REALLY impress your date.
+MISCELLANEOUS,3 Casa La Femme,I completely recommend Casa La Femme for any special occasion and to REALLY impress your date.
+RESTAURANT,1 NEG,More Williamsburg Garbage
+GENERAL,1 NEG,More Williamsburg Garbage
+SERVICE,1 NEG,The dishes came out around 5 minutes apart.
+GENERAL,1 NEG,The dishes came out around 5 minutes apart.
+FOOD,2 bibimbap,"The bibimbap was average, but the stone bowl wasn't even close to sizzling."
+QUALITY,2 bibimbap,"The bibimbap was average, but the stone bowl wasn't even close to sizzling."
+FOOD,1 stone bowl,"The bibimbap was average, but the stone bowl wasn't even close to sizzling."
+QUALITY,1 stone bowl,"The bibimbap was average, but the stone bowl wasn't even close to sizzling."
+FOOD,1 stone bowl,Too bad I had paid an extra $2 for the stone bowl.
+PRICES,1 stone bowl,Too bad I had paid an extra $2 for the stone bowl.
+FOOD,1 nakgi-bokum,The nakgi-bokum was horrible.
+QUALITY,1 nakgi-bokum,The nakgi-bokum was horrible.
+FOOD,1 stir-fried squid,Easily the worst stir-fried squid I've ever tasted.
+QUALITY,1 stir-fried squid,Easily the worst stir-fried squid I've ever tasted.
+FOOD,1 sauce,The sauce tasted more like Chinese fast food than decent Korean.
+QUALITY,1 sauce,The sauce tasted more like Chinese fast food than decent Korean.
+FOOD,2 side dishes,"The side dishes were passable, and I did get a refill upon request."
+QUALITY,2 side dishes,"The side dishes were passable, and I did get a refill upon request."
+FOOD,3 side dishes,"The side dishes were passable, and I did get a refill upon request."
+STYLE_OPTIONS,3 side dishes,"The side dishes were passable, and I did get a refill upon request."
+SERVICE,1 service,The real problem I had with this place was the complete lack of service.
+GENERAL,1 service,The real problem I had with this place was the complete lack of service.
+SERVICE,1 NEG,She just nodded and walked off.
+GENERAL,1 NEG,She just nodded and walked off.
+SERVICE,1 NEG,"As to my comment about the food, no apology or acknowledgment was made."
+GENERAL,1 NEG,"As to my comment about the food, no apology or acknowledgment was made."
+FOOD,1 dish,My wife had barely touched that mess of a dish.
+QUALITY,1 dish,My wife had barely touched that mess of a dish.
+SERVICE,1 NEG,We were charged full price.
+GENERAL,1 NEG,We were charged full price.
+RESTAURANT,3 NEG,Lives up to the hype
+GENERAL,3 NEG,Lives up to the hype
+RESTAURANT,2 NEG,We've tried before but it always packed and doesn't take reservations.
+MISCELLANEOUS,2 NEG,We've tried before but it always packed and doesn't take reservations.
+RESTAURANT,3 NEG,It was well worth the wait.
+GENERAL,3 NEG,It was well worth the wait.
+FOOD,3 risotto,The wife had the risotto which was amazing.
+QUALITY,3 risotto,The wife had the risotto which was amazing.
+FOOD,1 NEG,"It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal."
+STYLE_OPTIONS,1 NEG,"It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal."
+FOOD,3 NEG,"It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal."
+QUALITY,3 NEG,"It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal."
+FOOD,3 farro salad,The farro salad and the mashed yukon potatoes were also extremely tasty.
+QUALITY,3 farro salad,The farro salad and the mashed yukon potatoes were also extremely tasty.
+FOOD,3 mashed yukon potatoes,The farro salad and the mashed yukon potatoes were also extremely tasty.
+QUALITY,3 mashed yukon potatoes,The farro salad and the mashed yukon potatoes were also extremely tasty.
+RESTAURANT,3 east village pizza,i love margherita pizza – i looove east village pizza
+GENERAL,3 east village pizza,i love margherita pizza – i looove east village pizza
+FOOD,3 margherita pizza,i love margherita pizza – i looove east village pizza
+QUALITY,3 margherita pizza,i love margherita pizza – i looove east village pizza
+RESTAURANT,3 place,"Love this place, every time we are in the city this is one of the places we always go."
+GENERAL,3 place,"Love this place, every time we are in the city this is one of the places we always go."
+FOOD,2 slice of NYC pizza,A quintessential slice of NYC pizza.
+QUALITY,2 slice of NYC pizza,A quintessential slice of NYC pizza.
+FOOD,3 crust,"The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components."
+QUALITY,3 crust,"The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components."
+FOOD,3 sauce,"The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components."
+QUALITY,3 sauce,"The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components."
+FOOD,3 cheese,"The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components."
+QUALITY,3 cheese,"The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components."
+FOOD,3 margherita pizza,"Personally I like the margherita pizza better, but they are all good."
+QUALITY,3 margherita pizza,"Personally I like the margherita pizza better, but they are all good."
+FOOD,3 NEG,"Personally I like the margherita pizza better, but they are all good."
+QUALITY,3 NEG,"Personally I like the margherita pizza better, but they are all good."
+AMBIENCE,3 Restaurant,Possibly the Most Romantic Restaurant in the City
+GENERAL,3 Restaurant,Possibly the Most Romantic Restaurant in the City
+RESTAURANT,3 modern Japanese brasserie,"This is undoubtedly my favorite modern Japanese brasserie (that don’t serve sushi), and in my opinion, one of the most romantic restaurants in the city!"
+GENERAL,3 modern Japanese brasserie,"This is undoubtedly my favorite modern Japanese brasserie (that don’t serve sushi), and in my opinion, one of the most romantic restaurants in the city!"
+AMBIENCE,3 modern Japanese brasserie,"This is undoubtedly my favorite modern Japanese brasserie (that don’t serve sushi), and in my opinion, one of the most romantic restaurants in the city!"
+GENERAL,3 modern Japanese brasserie,"This is undoubtedly my favorite modern Japanese brasserie (that don’t serve sushi), and in my opinion, one of the most romantic restaurants in the city!"
+LOCATION,2 spot,"Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city."
+GENERAL,2 spot,"Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city."
+AMBIENCE,3 unmarked wooden doors,"Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city."
+GENERAL,3 unmarked wooden doors,"Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city."
+AMBIENCE,3 décor,"Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city."
+GENERAL,3 décor,"Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city."
+AMBIENCE,3 private booths,"If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!)."
+GENERAL,3 private booths,"If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!)."
+AMBIENCE,3 glass ceilings,"If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!)."
+GENERAL,3 glass ceilings,"If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!)."
+AMBIENCE,3 NEG,It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!
+GENERAL,3 NEG,It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!
+SERVICE,3 waiter,It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!
+GENERAL,3 waiter,It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!
+FOOD,3 BBE $29 fixe prix menu,"My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!"
+PRICES,3 BBE $29 fixe prix menu,"My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!"
+FOOD,3 BBE $29 fixe prix menu,"My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!"
+STYLE_OPTIONS,3 BBE $29 fixe prix menu,"My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!"
+FOOD,3 sashimi amuse bouche,We started off with a delightful sashimi amuse bouche.
+QUALITY,3 sashimi amuse bouche,We started off with a delightful sashimi amuse bouche.
+FOOD,3 Grilled Black Cod,"I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better."
+QUALITY,3 Grilled Black Cod,"I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better."
+FOOD,3 Grilled Salmon dish,"I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better."
+QUALITY,3 Grilled Salmon dish,"I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better."
+FOOD,2 entrees,The entrees were served with miso soup and rice.
+STYLE_OPTIONS,2 entrees,The entrees were served with miso soup and rice.
+DRINKS,3 sake’s,The sake’s complimented the courses very well and is successfully easing me into the sake world.
+QUALITY,3 sake’s,The sake’s complimented the courses very well and is successfully easing me into the sake world.
+FOOD,2 frozen black sesame mousse,"For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal."
+QUALITY,2 frozen black sesame mousse,"For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal."
+FOOD,3 matcha (powdered green tea) and blueberry cheesecake,"For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal."
+QUALITY,3 matcha (powdered green tea) and blueberry cheesecake,"For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal."
+RESTAURANT,3 brasserie,"Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie."
+GENERAL,3 brasserie,"Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie."
+RESTAURANT,3 brasserie,"Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie."
+PRICES,3 brasserie,"Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie."
+RESTAURANT,3 Zenkichi,"I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner."
+GENERAL,3 Zenkichi,"I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner."
+AMBIENCE,3 Zenkichi,"I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner."
+GENERAL,3 Zenkichi,"I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner."
+RESTAURANT,1 NEG,Terrible would be a compliment!
+GENERAL,1 NEG,Terrible would be a compliment!
+SERVICE,1 service,"The service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night."
+GENERAL,1 service,"The service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night."
+SERVICE,1 NEG,We paid a fixed pricce but got nothing!!
+GENERAL,1 NEG,We paid a fixed pricce but got nothing!!
+SERVICE,1 NEG,We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.
+GENERAL,1 NEG,We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.
+SERVICE,1 service,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!"
+GENERAL,1 service,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!"
+DRINKS,1 drinks,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!"
+PRICES,1 drinks,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!"
+FOOD,1 pita bread,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!"
+PRICES,1 pita bread,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!"
+SERVICE,1 NEG,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!"
+GENERAL,1 NEG,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!"
+RESTAURANT,1 NEG,Stay away
+GENERAL,1 NEG,Stay away
+FOOD,3 Shabu Shabu,Great Shabu Shabu
+QUALITY,3 Shabu Shabu,Great Shabu Shabu
+RESTAURANT,3 NEG,I love it.
+GENERAL,3 NEG,I love it.
+FOOD,2 dishes,I tried a couple other dishes but wasn't too impressed.
+QUALITY,2 dishes,I tried a couple other dishes but wasn't too impressed.
+FOOD,3 Shabu Shabu,"But for the Shabu Shabu, you won't find much better in NY."
+QUALITY,3 Shabu Shabu,"But for the Shabu Shabu, you won't find much better in NY."
+FOOD,3 meat,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+QUALITY,3 meat,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+FOOD,3 sauces,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+QUALITY,3 sauces,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+SERVICE,3 service,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+GENERAL,3 service,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+FOOD,3 meal,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+STYLE_OPTIONS,3 meal,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+FOOD,3 kimchi,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+PRICES,3 kimchi,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+FOOD,3 salad,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+PRICES,3 salad,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too."
+FOOD,3 Korean food,Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+QUALITY,3 Korean food,Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+FOOD,3 fusion twists,Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+QUALITY,3 fusion twists,Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+FOOD,3 pork belly tacos,Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+QUALITY,3 pork belly tacos,Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+FOOD,3 hot dogs,"The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun."
+QUALITY,3 hot dogs,"The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun."
+FOOD,3 pork croquette sandwich,"The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun."
+QUALITY,3 pork croquette sandwich,"The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun."
+FOOD,3 bun,"The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun."
+QUALITY,3 bun,"The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun."
+LOCATION,2 view,Restaurant with a view
+GENERAL,2 view,Restaurant with a view
+FOOD,3 food,The food tasted very good.
+QUALITY,3 food,The food tasted very good.
+FOOD,3 family seafood entree,The family seafood entree was very good.
+QUALITY,3 family seafood entree,The family seafood entree was very good.
+FOOD,3 main entree,The main entree was also very good.
+QUALITY,3 main entree,The main entree was also very good.
+FOOD,3 food,"Price is high but the food is good, so I would come back again."
+QUALITY,3 food,"Price is high but the food is good, so I would come back again."
+FOOD,1 food,"Price is high but the food is good, so I would come back again."
+PRICES,1 food,"Price is high but the food is good, so I would come back again."
+RESTAURANT,3 NEG,"Price is high but the food is good, so I would come back again."
+GENERAL,3 NEG,"Price is high but the food is good, so I would come back again."
+RESTAURANT,1 place,This place doesn't make any sense
+GENERAL,1 place,This place doesn't make any sense
+RESTAURANT,1 NEG,Just want to warn you all - don't waste your time and money.
+GENERAL,1 NEG,Just want to warn you all - don't waste your time and money.
+AMBIENCE,1 decor,"This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional..."
+GENERAL,1 decor,"This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional..."
+AMBIENCE,1 mirrored walls,"This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional..."
+GENERAL,1 mirrored walls,"This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional..."
+AMBIENCE,1 place,This place is not inviting and the food is totally weird.
+GENERAL,1 place,This place is not inviting and the food is totally weird.
+FOOD,1 food,This place is not inviting and the food is totally weird.
+QUALITY,1 food,This place is not inviting and the food is totally weird.
+FOOD,1 japanese tapas,The concept of japanese tapas is newly created and clearly doesn't work.
+STYLE_OPTIONS,1 japanese tapas,The concept of japanese tapas is newly created and clearly doesn't work.
+FOOD,1 food,"The food they serve is not comforting, not appetizing and uncooked."
+QUALITY,1 food,"The food they serve is not comforting, not appetizing and uncooked."
+FOOD,3 Food,Good Food
+QUALITY,3 Food,Good Food
+FOOD,3 food,"The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner."
+QUALITY,3 food,"The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner."
+AMBIENCE,1 sitting space,"The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner."
+GENERAL,1 sitting space,"The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner."
+RESTAURANT,3 place,Over all it was a very nice romantic place .
+GENERAL,3 place,Over all it was a very nice romantic place .
+AMBIENCE,3 place,Over all it was a very nice romantic place .
+GENERAL,3 place,Over all it was a very nice romantic place .
+RESTAURANT,3 NEG,Loved it
+GENERAL,3 NEG,Loved it
+RESTAURANT,3 Pacifico,A coworker and I tried Pacifico after work a few Fridays and loved it.
+GENERAL,3 Pacifico,A coworker and I tried Pacifico after work a few Fridays and loved it.
+AMBIENCE,3 atmosphere,The atmosphere was great.
+GENERAL,3 atmosphere,The atmosphere was great.
+FOOD,3 food,"The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about."
+QUALITY,3 food,"The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about."
+DRINKS,2 margaritas,"The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about."
+QUALITY,2 margaritas,"The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about."
+SERVICE,2 waitress,"Our waitress wasn't mean, but not especially warm or attentive either."
+GENERAL,2 waitress,"Our waitress wasn't mean, but not especially warm or attentive either."
+RESTAURANT,3 restaurant,"I must say I am surprised by the bad reviews of the restaurant earlier in the year, though."
+GENERAL,3 restaurant,"I must say I am surprised by the bad reviews of the restaurant earlier in the year, though."
+AMBIENCE,3 patio,"Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio."
+GENERAL,3 patio,"Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio."
+RESTAURANT,3 NEG,"Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio."
+GENERAL,3 NEG,"Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio."
+RESTAURANT,1 NEG,Dumbfoundingly Poor
+GENERAL,1 NEG,Dumbfoundingly Poor
+RESTAURANT,1 NEG,"This was, from start to finish, a mind-bogglingly uncomfortable experience."
+GENERAL,1 NEG,"This was, from start to finish, a mind-bogglingly uncomfortable experience."
+SERVICE,1 NEG,Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.
+GENERAL,1 NEG,Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.
+SERVICE,1 servers,The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.
+GENERAL,1 servers,The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.
+SERVICE,1 NEG,Polite acknowledgement is out;
+GENERAL,1 NEG,Polite acknowledgement is out;
+SERVICE,1 NEG,supercilious scorn is in.
+GENERAL,1 NEG,supercilious scorn is in.
+SERVICE,1 NEG,"And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?"
+GENERAL,1 NEG,"And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?"
+SERVICE,1 server,"A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious)."
+GENERAL,1 server,"A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious)."
+FOOD,3 appetizer,"A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious)."
+QUALITY,3 appetizer,"A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious)."
+FOOD,3 food,"Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest."
+QUALITY,3 food,"Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest."
+SERVICE,1 NEG,"Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest."
+GENERAL,1 NEG,"Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest."
+AMBIENCE,3 fit-out,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)"
+GENERAL,3 fit-out,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)"
+AMBIENCE,3 furnishings,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)"
+GENERAL,3 furnishings,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)"
+DRINKS,3 wine list,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)"
+STYLE_OPTIONS,3 wine list,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)"
+SERVICE,1 NEG,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)"
+GENERAL,1 NEG,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)"
+RESTAURANT,1 NEG,"At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."
+PRICES,1 NEG,"At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."
+RESTAURANT,1 NEG,"At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."
+GENERAL,1 NEG,"At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."
+SERVICE,1 NEG,"At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."
+GENERAL,1 NEG,"At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."
+RESTAURANT,1 NEG,"On that scale, it's a world-beater."
+GENERAL,1 NEG,"On that scale, it's a world-beater."
+RESTAURANT,1 palce,How is this palce still open?
+GENERAL,1 palce,How is this palce still open?
+RESTAURANT,1 NEG,I honestly don't even know where to begin.
+GENERAL,1 NEG,I honestly don't even know where to begin.
+SERVICE,3 NEG,"We arrived and were seated immediately, which made us both happy."
+GENERAL,3 NEG,"We arrived and were seated immediately, which made us both happy."
+RESTAURANT,3 NEG,Everything was going good until we got our meals.
+GENERAL,3 NEG,Everything was going good until we got our meals.
+FOOD,1 meals,Everything was going good until we got our meals.
+QUALITY,1 meals,Everything was going good until we got our meals.
+FOOD,1 chicken,I took one look at the chicken and I was appalled.
+STYLE_OPTIONS,1 chicken,I took one look at the chicken and I was appalled.
+FOOD,1 NEG,"It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes."
+STYLE_OPTIONS,1 NEG,"It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes."
+FOOD,1 spinach,"It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes."
+QUALITY,1 spinach,"It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes."
+FOOD,1 salmon,"I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms."
+QUALITY,1 salmon,"I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms."
+FOOD,1 salmon,"I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms."
+PRICES,1 salmon,"I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms."
+SERVICE,1 waitress,"At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away."
+GENERAL,1 waitress,"At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away."
+FOOD,1 spinach,"So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it."
+QUALITY,1 spinach,"So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it."
+FOOD,1 NEG,I couldn't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach.
+STYLE_OPTIONS,1 NEG,I couldn't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach.
+FOOD,1 NEG,So I decide to report back to the waitress because it was completely inedible.
+QUALITY,1 NEG,So I decide to report back to the waitress because it was completely inedible.
+SERVICE,1 NEG,"Guess what, I waited for TWENTY minutes before she came over and when she finally did, she says, ""oh well, I wish you would have said something earlier"" No apology, nothing."
+GENERAL,1 NEG,"Guess what, I waited for TWENTY minutes before she came over and when she finally did, she says, ""oh well, I wish you would have said something earlier"" No apology, nothing."
+SERVICE,1 NEG,"After that she simply took our plates, walked away, came back another TWENTY minutes later with the bill and the chicken on it!!!!!!!!!!!!"
+GENERAL,1 NEG,"After that she simply took our plates, walked away, came back another TWENTY minutes later with the bill and the chicken on it!!!!!!!!!!!!"
+SERVICE,1 NEG,"No desert menu, no apology, nothing!!!!!!"
+GENERAL,1 NEG,"No desert menu, no apology, nothing!!!!!!"
+SERVICE,1 manager,"This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it."
+GENERAL,1 manager,"This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it."
+SERVICE,1 NEG,"Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!"
+GENERAL,1 NEG,"Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!"
+SERVICE,1 NEG,The level of rudeness was preposterous.
+GENERAL,1 NEG,The level of rudeness was preposterous.
+SERVICE,1 manager,"The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out."
+GENERAL,1 manager,"The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out."
+DRINKS,3 drinks,"The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out."
+QUALITY,3 drinks,"The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out."
+FOOD,3 appetizers,"The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out."
+QUALITY,3 appetizers,"The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out."
+RESTAURANT,1 NEG,I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE.
+GENERAL,1 NEG,I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE.
+SERVICE,1 STAFF,THIS STAFF SHOULD BE FIRED.
+GENERAL,1 STAFF,THIS STAFF SHOULD BE FIRED.
+FOOD,3 margherita pizza,cirspy crust margherita pizza
+QUALITY,3 margherita pizza,cirspy crust margherita pizza
+FOOD,3 pizza,it was really good pizza.
+QUALITY,3 pizza,it was really good pizza.
+FOOD,3 crust,the crust was imazingly cooked well and pizza was fully loaded:):):)
+QUALITY,3 crust,the crust was imazingly cooked well and pizza was fully loaded:):):)
+FOOD,3 pizza,the crust was imazingly cooked well and pizza was fully loaded:):):)
+STYLE_OPTIONS,3 pizza,the crust was imazingly cooked well and pizza was fully loaded:):):)
+RESTAURANT,3 NEG,you know what i mean all the positives things happening there made mw write this review.
+GENERAL,3 NEG,you know what i mean all the positives things happening there made mw write this review.
+RESTAURANT,1 Restaurant,Single Worst Restaurant in Manhattan
+GENERAL,1 Restaurant,Single Worst Restaurant in Manhattan
+AMBIENCE,3 decor,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."
+GENERAL,3 decor,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."
+FOOD,3 pita,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."
+QUALITY,3 pita,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."
+FOOD,3 hummus,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."
+QUALITY,3 hummus,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."
+FOOD,3 grilled octopus,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."
+QUALITY,3 grilled octopus,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."
+RESTAURANT,1 place,If I could give 0 stars I would do so for this place.
+GENERAL,1 place,If I could give 0 stars I would do so for this place.
+RESTAURANT,1 NEG,The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.
+MISCELLANEOUS,1 NEG,The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.
+RESTAURANT,1 NEG,Well...they can run but they can't hide.
+GENERAL,1 NEG,Well...they can run but they can't hide.
+RESTAURANT,1 place,This place...god where do i begin.
+GENERAL,1 place,This place...god where do i begin.
+AMBIENCE,3 scene,It is quite a spectacular scene i'll give them that.
+GENERAL,3 scene,It is quite a spectacular scene i'll give them that.
+AMBIENCE,2 decor,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+GENERAL,2 decor,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+FOOD,1 eggplant,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+QUALITY,1 eggplant,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+FOOD,1 eggplant,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+PRICES,1 eggplant,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+SERVICE,1 NEG,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+GENERAL,1 NEG,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+RESTAURANT,1 place,"How this place survives the competitive west village market in this economy, or any other for that matter, is beyond me."
+GENERAL,1 place,"How this place survives the competitive west village market in this economy, or any other for that matter, is beyond me."
+FOOD,3 Hot Dogs,Great Hot Dogs!
+QUALITY,3 Hot Dogs,Great Hot Dogs!
+FOOD,3 food,"Though it's been crowded most times I've gone here, Bark always delivers on their food."
+QUALITY,3 food,"Though it's been crowded most times I've gone here, Bark always delivers on their food."
+RESTAURANT,2 Bark,"Though it's been crowded most times I've gone here, Bark always delivers on their food."
+MISCELLANEOUS,2 Bark,"Though it's been crowded most times I've gone here, Bark always delivers on their food."
+FOOD,3 hot dogs,"The hot dogs are top notch, and they're Slamwich is amazing!"
+QUALITY,3 hot dogs,"The hot dogs are top notch, and they're Slamwich is amazing!"
+FOOD,3 Slamwich,"The hot dogs are top notch, and they're Slamwich is amazing!"
+QUALITY,3 Slamwich,"The hot dogs are top notch, and they're Slamwich is amazing!"
+RESTAURANT,3 Bark,"Going to Bark is always worth the train ride, and will make your tongue and belly very happy!"
+GENERAL,3 Bark,"Going to Bark is always worth the train ride, and will make your tongue and belly very happy!"
+FOOD,3 NEG,"Going to Bark is always worth the train ride, and will make your tongue and belly very happy!"
+QUALITY,3 NEG,"Going to Bark is always worth the train ride, and will make your tongue and belly very happy!"
+FOOD,1 menu,Only complaint is the pricing--I believe it would be more reasonable to pay a dollar less on each item listed on the menu.
+PRICES,1 menu,Only complaint is the pricing--I believe it would be more reasonable to pay a dollar less on each item listed on the menu.
+RESTAURANT,3 spot,"But nonetheless--great spot, great food."
+GENERAL,3 spot,"But nonetheless--great spot, great food."
+FOOD,3 food,"But nonetheless--great spot, great food."
+QUALITY,3 food,"But nonetheless--great spot, great food."
+FOOD,3 food,Fabulous food - if the front of house staff don't put you off – 
+QUALITY,3 food,Fabulous food - if the front of house staff don't put you off – 
+SERVICE,1 front of house staff,Fabulous food - if the front of house staff don't put you off – 
+GENERAL,1 front of house staff,Fabulous food - if the front of house staff don't put you off – 
+RESTAURANT,1 NEG,"It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years. "
+PRICES,1 NEG,"It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years. "
+SERVICE,3 waiters,"Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. "
+GENERAL,3 waiters,"Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. "
+SERVICE,1 front of house staff,"Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. "
+GENERAL,1 front of house staff,"Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. "
+FOOD,3 fish dishes,"Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. "
+QUALITY,3 fish dishes,"Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. "
+RESTAURANT,1 BFC,"As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"
+MISCELLANEOUS,1 BFC,"As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"
+SERVICE,1 front of house staff,"As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"
+GENERAL,1 front of house staff,"As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"
+SERVICE,1 NEG,"As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"
+GENERAL,1 NEG,"As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"
+SERVICE,1 girl,The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink. 
+GENERAL,1 girl,The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink. 
+SERVICE,1 NEG,"I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she ""had a BBQ to go to"" that night - WTF??"
+GENERAL,1 NEG,"I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she ""had a BBQ to go to"" that night - WTF??"
+SERVICE,1 staff,I'd be horrified if my staff were turning away customers so early and so rudely!
+GENERAL,1 staff,I'd be horrified if my staff were turning away customers so early and so rudely!
+SERVICE,1 girl,"There's another girl who I can't describe, she is about 5'6"" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you're *really* talking about. "
+GENERAL,1 girl,"There's another girl who I can't describe, she is about 5'6"" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you're *really* talking about. "
+SERVICE,1 NEG,"I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. "
+GENERAL,1 NEG,"I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. "
+SERVICE,1 NEG,"Again, I'd be super upset if that were my employee."
+GENERAL,1 NEG,"Again, I'd be super upset if that were my employee."
+SERVICE,1 service,"Considering you will spend at least $60 a head, I expect better service. "
+GENERAL,1 service,"Considering you will spend at least $60 a head, I expect better service. "
+RESTAURANT,1 NEG,"Considering you will spend at least $60 a head, I expect better service. "
+PRICES,1 NEG,"Considering you will spend at least $60 a head, I expect better service. "
+SERVICE,1 NEG,"So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first..."
+GENERAL,1 NEG,"So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first..."
+SERVICE,1 Maitre-D,"Maitre-D-""Eat and get out"""
+GENERAL,1 Maitre-D,"Maitre-D-""Eat and get out"""
+FOOD,3 food,"The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant."
+QUALITY,3 food,"The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant."
+SERVICE,3 service,"The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant."
+GENERAL,3 service,"The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant."
+SERVICE,1 maitre-D,"The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant."
+GENERAL,1 maitre-D,"The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant."
+DRINKS,3 bottle of wine,"While finishing our meals which included a high-end bottle of wine, our son's fiance joined us for a glass of wine and dessert."
+QUALITY,3 bottle of wine,"While finishing our meals which included a high-end bottle of wine, our son's fiance joined us for a glass of wine and dessert."
+SERVICE,1 frontman,"This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant."
+GENERAL,1 frontman,"This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant."
+SERVICE,1 NEG,"His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening."
+GENERAL,1 NEG,"His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening."
+SERVICE,1 maitre-D,"A word to the wise: you can't dine here and disturb the maitre-D's sense of "" table turnover"", as whacked as it is, or else."
+GENERAL,1 maitre-D,"A word to the wise: you can't dine here and disturb the maitre-D's sense of "" table turnover"", as whacked as it is, or else."
+SERVICE,1 NEG,"If you go here, do it on his off-night."
+GENERAL,1 NEG,"If you go here, do it on his off-night."
+FOOD,3 meal,Best meal in a long time!
+QUALITY,3 meal,Best meal in a long time!
+FOOD,3 Mussles,Mussles and calamari were superb Saturday evening.
+QUALITY,3 Mussles,Mussles and calamari were superb Saturday evening.
+FOOD,3 calamari,Mussles and calamari were superb Saturday evening.
+QUALITY,3 calamari,Mussles and calamari were superb Saturday evening.
+FOOD,3 Lamb special,I had the Lamb special which was perfect.
+QUALITY,3 Lamb special,I had the Lamb special which was perfect.
+FOOD,3 flank steak,"My father had the flank steak which was very good, and my mother had the swordfish."
+QUALITY,3 flank steak,"My father had the flank steak which was very good, and my mother had the swordfish."
+RESTAURANT,3 The Four Seasons restaurant,The Four Seasons restaurant is a great experience.
+GENERAL,3 The Four Seasons restaurant,The Four Seasons restaurant is a great experience.
+FOOD,3 food,The food is great and the environment is even better.
+QUALITY,3 food,The food is great and the environment is even better.
+AMBIENCE,3 environment,The food is great and the environment is even better.
+GENERAL,3 environment,The food is great and the environment is even better.
+RESTAURANT,3 NEG,Everyone must come here at least once.
+GENERAL,3 NEG,Everyone must come here at least once.
+RESTAURANT,3 NEG,Highly recommend it!
+GENERAL,3 NEG,Highly recommend it!
+FOOD,3 Hot Dogs,Taking Hot Dogs to the next level
+QUALITY,3 Hot Dogs,Taking Hot Dogs to the next level
+RESTAURANT,1 Bark,"At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog."
+PRICES,1 Bark,"At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog."
+FOOD,3 hot dog,"At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog."
+QUALITY,3 hot dog,"At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog."
+FOOD,3 hot dog,Here the hot dog is elevated to the level of a real entree with numerous variations available.
+QUALITY,3 hot dog,Here the hot dog is elevated to the level of a real entree with numerous variations available.
+FOOD,3 hot dog,Here the hot dog is elevated to the level of a real entree with numerous variations available.
+STYLE_OPTIONS,3 hot dog,Here the hot dog is elevated to the level of a real entree with numerous variations available.
+AMBIENCE,3 Atmosphere,Great Atmosphere
+GENERAL,3 Atmosphere,Great Atmosphere
+FOOD,3 fish tacos,"I highly recommend the fish tacos, everything else was ok."
+QUALITY,3 fish tacos,"I highly recommend the fish tacos, everything else was ok."
+FOOD,2 NEG,"I highly recommend the fish tacos, everything else was ok."
+QUALITY,2 NEG,"I highly recommend the fish tacos, everything else was ok."
+AMBIENCE,3 atmosphere,"Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night."
+GENERAL,3 atmosphere,"Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night."
+AMBIENCE,3 fire place,"Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night."
+GENERAL,3 fire place,"Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night."
+AMBIENCE,1 NEG,"Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night."
+GENERAL,1 NEG,"Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night."
+SERVICE,1 service,Poor service and management
+GENERAL,1 service,Poor service and management
+SERVICE,1 management,Poor service and management
+GENERAL,1 management,Poor service and management
+RESTAURANT,1 place,Don’t go to this place!
+GENERAL,1 place,Don’t go to this place!
+RESTAURANT,1 Casa la Femme,Had an awful experience at Casa la Femme on a Saturday dinner.
+GENERAL,1 Casa la Femme,Had an awful experience at Casa la Femme on a Saturday dinner.
+SERVICE,1 NEG,Appetizers took nearly an hour.
+GENERAL,1 NEG,Appetizers took nearly an hour.
+SERVICE,1 NEG,When the main course finally arrived (another 45mins) half of our order was missing.
+GENERAL,1 NEG,When the main course finally arrived (another 45mins) half of our order was missing.
+SERVICE,1 NEG,Never got an explanation as to what was going on.
+GENERAL,1 NEG,Never got an explanation as to what was going on.
+SERVICE,1 manager,The manager was rude and handled the situation extremely poorly.
+GENERAL,1 manager,The manager was rude and handled the situation extremely poorly.
+SERVICE,1 NEG,"When we threatened to leave, we were offered a meager discount even though half the order was missing."
+GENERAL,1 NEG,"When we threatened to leave, we were offered a meager discount even though half the order was missing."
+SERVICE,1 NEG,"On the way out, we heard of other guests complaining about similar issues."
+GENERAL,1 NEG,"On the way out, we heard of other guests complaining about similar issues."
+RESTAURANT,1 restaurant,Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+PRICES,1 restaurant,Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+SERVICE,1 NEG,Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+GENERAL,1 NEG,Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+RESTAURANT,1 NEG,What a hassle!
+GENERAL,1 NEG,What a hassle!
+FOOD,2 food,"The food is very good, but not outstanding."
+QUALITY,2 food,"The food is very good, but not outstanding."
+SERVICE,1 staff,"There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table."
+GENERAL,1 staff,"There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table."
+FOOD,1 NEG,"There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table."
+QUALITY,1 NEG,"There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table."
+SERVICE,1 wait,"There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table."
+GENERAL,1 wait,"There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table."
+SERVICE,1 NEG,"On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table."
+GENERAL,1 NEG,"On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table."
+SERVICE,1 staff,"Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff."
+GENERAL,1 staff,"Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff."
+RESTAURANT,1 NEG,Expensive
+PRICES,1 NEG,Expensive
+FOOD,1 bread,"The bread was stale, the salad was overpriced and empty."
+QUALITY,1 bread,"The bread was stale, the salad was overpriced and empty."
+FOOD,1 salad,"The bread was stale, the salad was overpriced and empty."
+PRICES,1 salad,"The bread was stale, the salad was overpriced and empty."
+FOOD,1 salad,"The bread was stale, the salad was overpriced and empty."
+STYLE_OPTIONS,1 salad,"The bread was stale, the salad was overpriced and empty."
+FOOD,3 pasta,"The pasta was well cooked, didn't have enough sauce though or flavor."
+QUALITY,3 pasta,"The pasta was well cooked, didn't have enough sauce though or flavor."
+FOOD,1 pasta,"The pasta was well cooked, didn't have enough sauce though or flavor."
+QUALITY,1 pasta,"The pasta was well cooked, didn't have enough sauce though or flavor."
+FOOD,1 pasta,"The pasta was well cooked, didn't have enough sauce though or flavor."
+STYLE_OPTIONS,1 pasta,"The pasta was well cooked, didn't have enough sauce though or flavor."
+SERVICE,1 NEG,So rude!!!
+GENERAL,1 NEG,So rude!!!
+RESTAURANT,1 NEG,I was one of the people that went for this horrible experience.
+GENERAL,1 NEG,I was one of the people that went for this horrible experience.
+SERVICE,1 hostess,The hostess was rude and I got a distinct feeling that they did not want to serve us.
+GENERAL,1 hostess,The hostess was rude and I got a distinct feeling that they did not want to serve us.
+SERVICE,1 NEG,The hostess was rude and I got a distinct feeling that they did not want to serve us.
+GENERAL,1 NEG,The hostess was rude and I got a distinct feeling that they did not want to serve us.
+SERVICE,1 bartender,The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.
+GENERAL,1 bartender,The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.
+SERVICE,1 waitress,I asked for a menu and the same waitress looked at my like I was insane.
+GENERAL,1 waitress,I asked for a menu and the same waitress looked at my like I was insane.
+SERVICE,1 waitress,"I was shocked that my friends wanted to stay after the waitress said, ""can I help you"" and ""how many are in your party."""
+GENERAL,1 waitress,"I was shocked that my friends wanted to stay after the waitress said, ""can I help you"" and ""how many are in your party."""
+SERVICE,1 NEG,The three of us standing in front of her should have been an indication of how many of us there were.
+GENERAL,1 NEG,The three of us standing in front of her should have been an indication of how many of us there were.
+RESTAURANT,1 NEG,We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.
+MISCELLANEOUS,1 NEG,We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.
+SERVICE,1 staff,Shame on this place for the horrible rude staff and non-existent customer service.
+GENERAL,1 staff,Shame on this place for the horrible rude staff and non-existent customer service.
+SERVICE,1 customer service,Shame on this place for the horrible rude staff and non-existent customer service.
+GENERAL,1 customer service,Shame on this place for the horrible rude staff and non-existent customer service.
+SERVICE,1 staff,bad staff
+GENERAL,1 staff,bad staff
+RESTAURANT,3 place,I generally like this place.
+GENERAL,3 place,I generally like this place.
+FOOD,3 food,The food is good.
+QUALITY,3 food,The food is good.
+AMBIENCE,3 space,The design of the space is good.
+GENERAL,3 space,The design of the space is good.
+SERVICE,1 service,But the service is HORRID!
+GENERAL,1 service,But the service is HORRID!
+SERVICE,1 waitress,"I was there for brunch recently, and we were tag teamed by a waitress and a waiter."
+GENERAL,1 waitress,"I was there for brunch recently, and we were tag teamed by a waitress and a waiter."
+SERVICE,1 waiter,"I was there for brunch recently, and we were tag teamed by a waitress and a waiter."
+GENERAL,1 waiter,"I was there for brunch recently, and we were tag teamed by a waitress and a waiter."
+SERVICE,1 waiter,The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.
+GENERAL,1 waiter,The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.
+SERVICE,1 NEG,"I can't believe that it was, but please put the bag down before delivering food!"
+GENERAL,1 NEG,"I can't believe that it was, but please put the bag down before delivering food!"
+SERVICE,1 waitress,"The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it)."
+GENERAL,1 waitress,"The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it)."
+SERVICE,1 NEG,"I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table."
+GENERAL,1 NEG,"I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table."
+SERVICE,1 NEG,"She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables."
+GENERAL,1 NEG,"She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables."
+RESTAURANT,1 place,"I wish I could like this place more, and I wish someone would retrain the staff."
+GENERAL,1 place,"I wish I could like this place more, and I wish someone would retrain the staff."
+SERVICE,1 staff,"I wish I could like this place more, and I wish someone would retrain the staff."
+GENERAL,1 staff,"I wish I could like this place more, and I wish someone would retrain the staff."

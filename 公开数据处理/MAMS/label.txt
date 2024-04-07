@@ -1,0 +1,8 @@
+place
+staff
+price
+menu
+ambience
+food
+miscellaneous
+service
